@@ -1,873 +1,873 @@
-number	name	district	party	votes	got_mandate
-101	VERONIKA ISBERG	1	Rahva Ühtsuse Erakond	55	False	
-102	VADIM ŠAPTŠENKO	1	Rahva Ühtsuse Erakond	20	False	
-103	AIMAR JUKKUM	1	Rahva Ühtsuse Erakond	14	False	
-137	URMAS ESPENBERG	1	Eesti Konservatiivne Rahvaerakond	2087	False	
-138	NELE VALGEPEA	1	Eesti Konservatiivne Rahvaerakond	281	False	
-147	MARET JÕGI	1	Eesti Konservatiivne Rahvaerakond	130	False	
-141	RIHO RAUSMA	1	Eesti Konservatiivne Rahvaerakond	116	False	
-143	ANNIKA SOOTS	1	Eesti Konservatiivne Rahvaerakond	101	False	
-139	TAIVO PÕRK	1	Eesti Konservatiivne Rahvaerakond	83	False	
-146	REIN PIKA	1	Eesti Konservatiivne Rahvaerakond	57	False	
-145	URMAS SIEMER	1	Eesti Konservatiivne Rahvaerakond	47	False	
-140	NIKOLAI JAKOBIŠVILI	1	Eesti Konservatiivne Rahvaerakond	28	False	
-142	MARIKA ISTAHL	1	Eesti Konservatiivne Rahvaerakond	28	False	
-144	ALEKSANDER TŠERNIKOV	1	Eesti Konservatiivne Rahvaerakond	28	False	
-262	KRISTEN MICHAL	1	Eesti Reformierakond	4766	True	
-263	HEIDY PURGA	1	Eesti Reformierakond	3283	True	
-265	VILJA SAVISAAR-TOOMAST	1	Eesti Reformierakond	2395	False	
-264	REMO HOLSMER	1	Eesti Reformierakond	1385	False	
-266	TIINA LOKK-TRAMBERG	1	Eesti Reformierakond	977	False	
-267	ANTS LEEMETS	1	Eesti Reformierakond	570	False	
-271	ANDRES ARO	1	Eesti Reformierakond	206	False	
-270	LIINA HERMAKÜLA	1	Eesti Reformierakond	184	False	
-269	KARIN PÄRTEL	1	Eesti Reformierakond	150	False	
-268	TATJANA MURAVJOVA	1	Eesti Reformierakond	144	False	
-272	GEROL SILKIN	1	Eesti Reformierakond	89	False	
-387	KEN-MARTI VAHER	1	Erakond Isamaa ja Res Publica Liit	2313	True	
-388	LIISA-LY PAKOSTA	1	Erakond Isamaa ja Res Publica Liit	1808	False	
-389	TARMO KRUUSIMÄE	1	Erakond Isamaa ja Res Publica Liit	1260	False	
-395	TIIT MEREN	1	Erakond Isamaa ja Res Publica Liit	292	False	
-391	DIANA INGERAINEN	1	Erakond Isamaa ja Res Publica Liit	288	False	
-390	MAKSIM ROGALSKI	1	Erakond Isamaa ja Res Publica Liit	278	False	
-394	AVO ÜPRUS	1	Erakond Isamaa ja Res Publica Liit	247	False	
-393	TIIA SIHVER	1	Erakond Isamaa ja Res Publica Liit	233	False	
-397	TIIT RIISALO	1	Erakond Isamaa ja Res Publica Liit	229	False	
-392	IMRE RAMMUL	1	Erakond Isamaa ja Res Publica Liit	158	False	
-396	HENRIK AAVIK	1	Erakond Isamaa ja Res Publica Liit	87	False	
-512	OLEV-ANDRES TINN	1	Erakond Eestimaa Rohelised	247	False	
-514	EERO UUSTALU	1	Erakond Eestimaa Rohelised	85	False	
-517	MIHKEL VESKIMÄGI	1	Erakond Eestimaa Rohelised	69	False	
-516	PIRET KÄIGE	1	Erakond Eestimaa Rohelised	62	False	
-515	RAIVO JUURAK	1	Erakond Eestimaa Rohelised	39	False	
-513	ANDREI GUDIM	1	Erakond Eestimaa Rohelised	37	False	
-552	VICTOR POLYAKOFF	1	Eestimaa Ühendatud Vasakpartei	16	False	
-555	JEKATERINA KRAVTSOVA	1	Eestimaa Ühendatud Vasakpartei	11	False	
-553	DIANA VINOGRADOVA	1	Eestimaa Ühendatud Vasakpartei	9	False	
-554	ADA LEIST	1	Eestimaa Ühendatud Vasakpartei	3	False	
-577	NEEME KUNINGAS	1	Eesti Vabaerakond	2432	False	
-578	KÜLLIKI KÜBARSEPP	1	Eesti Vabaerakond	1032	True	
-579	ANTS MILLER	1	Eesti Vabaerakond	227	False	
-581	TÕNU TEEVEER	1	Eesti Vabaerakond	210	False	
-580	LII RAMJALG	1	Eesti Vabaerakond	192	False	
-583	GEORG KIRSBERG	1	Eesti Vabaerakond	179	False	
-586	KUIDO MERITS	1	Eesti Vabaerakond	87	False	
-582	IVIKA PUUST	1	Eesti Vabaerakond	70	False	
-587	JAANUS PAASOJA	1	Eesti Vabaerakond	59	False	
-584	PEETER KÕLUVERE	1	Eesti Vabaerakond	50	False	
-585	MAGOMED MURTUZALIEV	1	Eesti Vabaerakond	19	False	
-702	MIHHAIL KÕLVART	1	Eesti Keskerakond	10996	True	
-703	VIKTOR VASSILJEV	1	Eesti Keskerakond	1862	True	
-712	MÄRT SULTS	1	Eesti Keskerakond	1285	True	
-707	ANDREI NOVIKOV	1	Eesti Keskerakond	1096	False	
-706	KARIN TAMMEMÄGI	1	Eesti Keskerakond	881	False	
-708	MAREK JÜRGENSON	1	Eesti Keskerakond	687	False	
-704	KALEV KALLO	1	Eesti Keskerakond	575	True	
-711	ANTON STALNUHHIN	1	Eesti Keskerakond	491	False	
-705	LAURI LAASI	1	Eesti Keskerakond	407	True	
-710	ENNO TAMM	1	Eesti Keskerakond	346	False	
-709	IRINA ANTONJUK	1	Eesti Keskerakond	290	False	
-827	EIKI NESTOR	1	Sotsiaaldemokraatlik Erakond	3744	True	
-829	ALEKSEI TUROVSKI	1	Sotsiaaldemokraatlik Erakond	1787	False	
-828	MARIANNE MIKKO	1	Sotsiaaldemokraatlik Erakond	859	False	
-830	JAAK JUSKE	1	Sotsiaaldemokraatlik Erakond	476	False	
-837	KATRIN SAKS	1	Sotsiaaldemokraatlik Erakond	291	False	
-831	SIRJE KEEVALLIK	1	Sotsiaaldemokraatlik Erakond	166	False	
-833	SANDRA KAMILOVA	1	Sotsiaaldemokraatlik Erakond	126	False	
-832	MARIS SILD	1	Sotsiaaldemokraatlik Erakond	87	False	
-835	TIIA TIIK	1	Sotsiaaldemokraatlik Erakond	78	False	
-834	RAIKO PUUSTUSMAA	1	Sotsiaaldemokraatlik Erakond	56	False	
-836	HEINART PUHKIM	1	Sotsiaaldemokraatlik Erakond	48	False	
-952	RAIVO ORGUSAAR	1	Eesti Iseseisvuspartei	107	False	
-970	SVETLANA IVNITSKAJA	1	Üksikkandidaadid	46	False	
-107	KERLI GREEN	2	Rahva Ühtsuse Erakond	43	False	
-104	ALEKSANDR APOLINSKY	2	Rahva Ühtsuse Erakond	38	False	
-105	BEATRICE FENICE	2	Rahva Ühtsuse Erakond	25	False	
-106	MARITA PITK	2	Rahva Ühtsuse Erakond	15	False	
-148	MARE LIIGER	2	Eesti Konservatiivne Rahvaerakond	1924	False	
-154	RAUL ÖPIK	2	Eesti Konservatiivne Rahvaerakond	265	False	
-157	REIN TÖLP	2	Eesti Konservatiivne Rahvaerakond	225	False	
-152	TOOMAS RULL	2	Eesti Konservatiivne Rahvaerakond	205	False	
-151	GUNNAR STAHL	2	Eesti Konservatiivne Rahvaerakond	155	False	
-149	KAIRET GRASSMANN	2	Eesti Konservatiivne Rahvaerakond	132	False	
-150	ORHAN OKTAIN	2	Eesti Konservatiivne Rahvaerakond	125	False	
-153	VEIKO HARTWIG VALGEPEA	2	Eesti Konservatiivne Rahvaerakond	87	False	
-158	ALAR EHALA	2	Eesti Konservatiivne Rahvaerakond	68	False	
-160	TRIIN VAN DOORSLAER	2	Eesti Konservatiivne Rahvaerakond	53	False	
-161	VEIKO KRASS	2	Eesti Konservatiivne Rahvaerakond	49	False	
-155	RIHO NÜÜD	2	Eesti Konservatiivne Rahvaerakond	44	False	
-159	JUHAN KOBIN	2	Eesti Konservatiivne Rahvaerakond	35	False	
-156	OLEV PIIR	2	Eesti Konservatiivne Rahvaerakond	29	False	
-273	KEIT PENTUS-ROSIMANNUS	2	Eesti Reformierakond	5716	True	
-274	ARTO AAS	2	Eesti Reformierakond	2517	True	
-278	IMRE SOOÄÄR	2	Eesti Reformierakond	2102	False	
-280	IVI EENMAA	2	Eesti Reformierakond	1407	False	
-276	URMAS SUTROP	2	Eesti Reformierakond	1109	False	
-277	ÜLLE RAJASALU	2	Eesti Reformierakond	1066	False	
-275	NIKOLAI NOVOSJOLOV	2	Eesti Reformierakond	1016	False	
-279	KALEV KALLEMETS	2	Eesti Reformierakond	423	False	
-285	KALEV KUKK	2	Eesti Reformierakond	256	False	
-281	EVE PÄRNASTE	2	Eesti Reformierakond	183	False	
-282	GEORG AHER	2	Eesti Reformierakond	174	False	
-286	TAAVI TOPPI	2	Eesti Reformierakond	131	False	
-284	TOOMAS VIKS	2	Eesti Reformierakond	95	False	
-283	OLGA AŠIHMINA	2	Eesti Reformierakond	40	False	
-398	VIKTORIA LADÕNSKAJA	2	Erakond Isamaa ja Res Publica Liit	1393	True	
-399	SVEN SESTER	2	Erakond Isamaa ja Res Publica Liit	1392	False	
-411	JUKU-KALLE RAID	2	Erakond Isamaa ja Res Publica Liit	1257	False	
-400	ERKI NOOL	2	Erakond Isamaa ja Res Publica Liit	1020	False	
-402	RIINA SOLMAN	2	Erakond Isamaa ja Res Publica Liit	810	False	
-404	LAGLE PAREK	2	Erakond Isamaa ja Res Publica Liit	569	False	
-405	PRIIDU PÄRNA	2	Erakond Isamaa ja Res Publica Liit	381	False	
-401	HENDRIK AGUR	2	Erakond Isamaa ja Res Publica Liit	336	False	
-403	KALEV VAPPER	2	Erakond Isamaa ja Res Publica Liit	264	False	
-407	MADIS PÄTS	2	Erakond Isamaa ja Res Publica Liit	194	False	
-409	ILLIMAR LEPPIK VON WIRÉN	2	Erakond Isamaa ja Res Publica Liit	160	False	
-408	LINDA EICHLER	2	Erakond Isamaa ja Res Publica Liit	133	False	
-410	SÜLVI SARAPUU	2	Erakond Isamaa ja Res Publica Liit	87	False	
-406	REET TREI	2	Erakond Isamaa ja Res Publica Liit	62	False	
-518	ALEKSANDER LAANE	2	Erakond Eestimaa Rohelised	404	False	
-520	KÜLLIKE REIMAA	2	Erakond Eestimaa Rohelised	104	False	
-519	DARJA VORONTSOVA	2	Erakond Eestimaa Rohelised	43	False	
-522	EVALD LANGEBRAUN	2	Erakond Eestimaa Rohelised	37	False	
-521	SERGE TJURIN	2	Erakond Eestimaa Rohelised	10	False	
-556	VALEV KALD	2	Eestimaa Ühendatud Vasakpartei	30	False	
-558	ALEKSEI DAVÕDOV	2	Eestimaa Ühendatud Vasakpartei	17	False	
-557	VLADIMIR KRUTŠININ	2	Eestimaa Ühendatud Vasakpartei	11	False	
-588	ANDRES HERKEL	2	Eesti Vabaerakond	4227	True	
-590	MONIKA HAUKANÕMM	2	Eesti Vabaerakond	450	True	
-589	JEVGENI KRIŠTAFOVITŠ	2	Eesti Vabaerakond	446	False	
-597	JAAN RIIS	2	Eesti Vabaerakond	236	False	
-593	MARGUS MAIDLA	2	Eesti Vabaerakond	131	False	
-591	MARIS MERISTE	2	Eesti Vabaerakond	127	False	
-601	HELDUR-VALDEK SEEDER	2	Eesti Vabaerakond	104	False	
-600	HOLGER PEEL	2	Eesti Vabaerakond	95	False	
-599	KULNO KESKÜLA	2	Eesti Vabaerakond	72	False	
-594	JAANUS LUKA	2	Eesti Vabaerakond	69	False	
-598	ALDO VAINO	2	Eesti Vabaerakond	48	False	
-595	ALEKSANDR DORMIDONTOV	2	Eesti Vabaerakond	29	False	
-596	ALAR MAAS	2	Eesti Vabaerakond	25	False	
-592	RAIVO OLMET	2	Eesti Vabaerakond	20	False	
-713	EDGAR SAVISAAR	2	Eesti Keskerakond	25057	True	
-714	OLGA IVANOVA	2	Eesti Keskerakond	1948	True	
-726	MIHHAIL KORB	2	Eesti Keskerakond	1904	True	
-715	TOOMAS VITSUT	2	Eesti Keskerakond	503	True	
-717	KALLE KLANDORF	2	Eesti Keskerakond	400	False	
-722	MARIA JUFEREVA	2	Eesti Keskerakond	376	False	
-716	ELENA GLEBOVA	2	Eesti Keskerakond	310	False	
-725	NELLI PRIVALOVA	2	Eesti Keskerakond	228	False	
-720	AINI HÄRM	2	Eesti Keskerakond	218	False	
-719	TARMO KRIIS	2	Eesti Keskerakond	215	False	
-723	JURI DANILOV	2	Eesti Keskerakond	173	False	
-721	TÕNIS MÖLDER	2	Eesti Keskerakond	169	False	
-718	TAAVI AAS	2	Eesti Keskerakond	156	False	
-724	HELEN LAUSMA-SAAR	2	Eesti Keskerakond	49	False	
-838	ANDRES ANVELT	2	Sotsiaaldemokraatlik Erakond	3558	True	
-839	BARBI-JENNY PILVRE-STORGARD	2	Sotsiaaldemokraatlik Erakond	909	False	
-851	ANDREI HVOSTOV	2	Sotsiaaldemokraatlik Erakond	740	False	
-850	KARL-MARTIN SINIJÄRV	2	Sotsiaaldemokraatlik Erakond	565	False	
-841	VADIM BELOBROVTSEV	2	Sotsiaaldemokraatlik Erakond	387	False	
-843	OTT PÄRNA	2	Sotsiaaldemokraatlik Erakond	268	False	
-845	SIIM TUISK	2	Sotsiaaldemokraatlik Erakond	268	False	
-844	TOOMAS ALATALU	2	Sotsiaaldemokraatlik Erakond	253	False	
-842	ANDRA VEIDEMANN	2	Sotsiaaldemokraatlik Erakond	235	False	
-848	TIIU KUURME	2	Sotsiaaldemokraatlik Erakond	197	False	
-840	JELENA POVERINA-TŠERNÕH	2	Sotsiaaldemokraatlik Erakond	167	False	
-846	REET LAJA	2	Sotsiaaldemokraatlik Erakond	118	False	
-849	REIGO KIMMEL	2	Sotsiaaldemokraatlik Erakond	95	False	
-847	JEVGENIA KIRILOVA	2	Sotsiaaldemokraatlik Erakond	67	False	
-953	LAURI LIIKANE	2	Eesti Iseseisvuspartei	58	False	
-971	MAARIKA PÄHKLEMÄE	2	Üksikkandidaadid	82	False	
-966	GREETE REINSON	2	Üksikkandidaadid	42	False	
-968	HENN LEETNA	2	Üksikkandidaadid	42	False	
-964	ILMAR IBRAGIMOV	2	Üksikkandidaadid	26	False	
-108	JANE SNAITH	3	Rahva Ühtsuse Erakond	41	False	
-110	MARIO MÄRTSON	3	Rahva Ühtsuse Erakond	19	False	
-109	ANDREA GREEN	3	Rahva Ühtsuse Erakond	18	False	
-162	MARTIN HELME	3	Eesti Konservatiivne Rahvaerakond	4296	True	
-168	PIIA PAEMURRU	3	Eesti Konservatiivne Rahvaerakond	76	False	
-164	KAAREL JAAK ROOSAARE	3	Eesti Konservatiivne Rahvaerakond	51	False	
-163	ANDRUS LEBERECHT	3	Eesti Konservatiivne Rahvaerakond	32	False	
-170	IVO RATAS	3	Eesti Konservatiivne Rahvaerakond	32	False	
-171	KALJU MÄTIK	3	Eesti Konservatiivne Rahvaerakond	24	False	
-165	WESSE ALLIK	3	Eesti Konservatiivne Rahvaerakond	21	False	
-169	JAAK VIMM	3	Eesti Konservatiivne Rahvaerakond	15	False	
-166	MARGUS REEMETS	3	Eesti Konservatiivne Rahvaerakond	12	False	
-167	EDGAR VIIGIMÄE	3	Eesti Konservatiivne Rahvaerakond	11	False	
-287	URMAS PAET	3	Eesti Reformierakond	7868	True	
-288	MARIS LAURI	3	Eesti Reformierakond	4019	True	
-289	EERIK-NIILES KROSS	3	Eesti Reformierakond	1944	False	
-291	PAUL-EERIK RUMMO	3	Eesti Reformierakond	642	False	
-290	MARTIN KUKK	3	Eesti Reformierakond	456	True	
-295	EERO MERILIND	3	Eesti Reformierakond	291	False	
-296	ÕNNE PILLAK	3	Eesti Reformierakond	203	False	
-293	JOONAS VÄNTO	3	Eesti Reformierakond	160	False	
-292	KAIDO KAABERMA	3	Eesti Reformierakond	131	False	
-294	JOEL JESSE	3	Eesti Reformierakond	70	False	
-412	URMAS REINSALU	3	Erakond Isamaa ja Res Publica Liit	2949	True	
-414	MART NUTT	3	Erakond Isamaa ja Res Publica Liit	1068	False	
-413	SIIM VALMAR KIISLER	3	Erakond Isamaa ja Res Publica Liit	556	False	
-415	EVELIN SAMUEL	3	Erakond Isamaa ja Res Publica Liit	268	False	
-417	ANDRES ÖPIK	3	Erakond Isamaa ja Res Publica Liit	198	False	
-419	JAAK UUDMÄE	3	Erakond Isamaa ja Res Publica Liit	187	False	
-420	TIIT PAPP	3	Erakond Isamaa ja Res Publica Liit	144	False	
-418	ANDRES ERGMA	3	Erakond Isamaa ja Res Publica Liit	132	False	
-416	URMAS MARDI	3	Erakond Isamaa ja Res Publica Liit	108	False	
-421	MADIS KÜBAR	3	Erakond Isamaa ja Res Publica Liit	86	False	
-523	TÕNU TRUBETSKY	3	Erakond Eestimaa Rohelised	347	False	
-524	MAIGI KÄIGE	3	Erakond Eestimaa Rohelised	65	False	
-525	ANNE ARTUS	3	Erakond Eestimaa Rohelised	43	False	
-527	ALLAN TALU	3	Erakond Eestimaa Rohelised	34	False	
-526	MIKK PARIS	3	Erakond Eestimaa Rohelised	23	False	
-559	VLADIMIR DROZDOV	3	Eestimaa Ühendatud Vasakpartei	28	False	
-560	SVETLANA MOSKVINA	3	Eestimaa Ühendatud Vasakpartei	11	False	
-602	AIN LUTSEPP	3	Eesti Vabaerakond	4109	True	
-603	SERGEI METLEV	3	Eesti Vabaerakond	509	False	
-611	ÜLO MATTHEUS	3	Eesti Vabaerakond	167	False	
-605	TÕNU PLOOMPUU	3	Eesti Vabaerakond	143	False	
-604	ANNE HANSBERG	3	Eesti Vabaerakond	126	False	
-606	TARMO KALDMA	3	Eesti Vabaerakond	97	False	
-609	EDA HEINLA	3	Eesti Vabaerakond	97	False	
-607	TAAVI SIMSON	3	Eesti Vabaerakond	69	False	
-610	JAAN MIHKEL UUSTALU	3	Eesti Vabaerakond	68	False	
-608	MARGUS JAAGO	3	Eesti Vabaerakond	36	False	
-730	REIN RATAS	3	Eesti Keskerakond	3449	True	
-729	ERKI SAVISAAR	3	Eesti Keskerakond	1826	True	
-727	ARVO SARAPUU	3	Eesti Keskerakond	1662	False	
-736	IGOR KRAVTŠENKO	3	Eesti Keskerakond	1360	False	
-733	MARGARITA TŠERNOGOROVA	3	Eesti Keskerakond	1159	False	
-735	EDUARD TOMAN	3	Eesti Keskerakond	953	False	
-728	MERIKE MARTINSON	3	Eesti Keskerakond	946	False	
-731	HELLE KALDA	3	Eesti Keskerakond	771	False	
-732	TIIT TERIK	3	Eesti Keskerakond	389	False	
-734	IRINA EMBRICH	3	Eesti Keskerakond	217	False	
-852	RAINER VAKRA	3	Sotsiaaldemokraatlik Erakond	4132	True	
-853	MART MERI	3	Sotsiaaldemokraatlik Erakond	788	False	
-861	SILVER MEIKAR	3	Sotsiaaldemokraatlik Erakond	738	False	
-854	OLGA SÕTNIK	3	Sotsiaaldemokraatlik Erakond	358	False	
-857	ANTO LIIVAT	3	Sotsiaaldemokraatlik Erakond	353	False	
-855	LAURI LAATS	3	Sotsiaaldemokraatlik Erakond	282	False	
-856	KADI PÄRNITS	3	Sotsiaaldemokraatlik Erakond	245	False	
-858	KÜLLI URB	3	Sotsiaaldemokraatlik Erakond	176	False	
-859	JAAK KANGILASKI	3	Sotsiaaldemokraatlik Erakond	142	False	
-860	GERD TARAND	3	Sotsiaaldemokraatlik Erakond	97	False	
-954	MERLE OTSMAA	3	Eesti Iseseisvuspartei	67	False	
-111	RAIMO KÄGU	4	Rahva Ühtsuse Erakond	205	False	
-112	ANDREI ŠARŠOV	4	Rahva Ühtsuse Erakond	40	False	
-113	RAIVO ALGUR	4	Rahva Ühtsuse Erakond	25	False	
-115	SILJA TRISBERG	4	Rahva Ühtsuse Erakond	17	False	
-114	TAAVI KEEDUS	4	Rahva Ühtsuse Erakond	16	False	
-172	HENN PÕLLUAAS	4	Eesti Konservatiivne Rahvaerakond	4309	True	
-173	SIIM POHLAK	4	Eesti Konservatiivne Rahvaerakond	1128	False	
-174	MART JÄRVIK	4	Eesti Konservatiivne Rahvaerakond	323	False	
-187	MAIDO PAJO	4	Eesti Konservatiivne Rahvaerakond	298	False	
-177	RENE KOKK	4	Eesti Konservatiivne Rahvaerakond	180	False	
-178	KAI RIMMEL	4	Eesti Konservatiivne Rahvaerakond	175	False	
-180	LAURI LASIMER	4	Eesti Konservatiivne Rahvaerakond	122	False	
-175	PAUL PUUSTUSMAA	4	Eesti Konservatiivne Rahvaerakond	116	False	
-185	ANETT LEOSK	4	Eesti Konservatiivne Rahvaerakond	100	False	
-179	HEINO LÕIVEKE	4	Eesti Konservatiivne Rahvaerakond	97	False	
-181	VEIKO VÄRK	4	Eesti Konservatiivne Rahvaerakond	50	False	
-182	OLAVI TUTT	4	Eesti Konservatiivne Rahvaerakond	39	False	
-186	TAAVI TAPU	4	Eesti Konservatiivne Rahvaerakond	39	False	
-176	JÜRI DERKUN	4	Eesti Konservatiivne Rahvaerakond	31	False	
-183	OLAV KRUUS	4	Eesti Konservatiivne Rahvaerakond	25	False	
-184	TOIVO KIRTSI	4	Eesti Konservatiivne Rahvaerakond	18	False	
-297	TAAVI RÕIVAS	4	Eesti Reformierakond	15881	True	
-300	YOKO ALENDER	4	Eesti Reformierakond	2715	True	
-309	MADIS MILLING	4	Eesti Reformierakond	2580	True	
-301	AIVAR SÕERD	4	Eesti Reformierakond	2047	True	
-299	KALLE PALLING	4	Eesti Reformierakond	1917	True	
-298	LAINE RANDJÄRV	4	Eesti Reformierakond	1698	True	
-304	ANDRE SEPP	4	Eesti Reformierakond	679	False	
-306	MART VÕRKLAEV	4	Eesti Reformierakond	615	False	
-305	ENNO FELS	4	Eesti Reformierakond	566	False	
-308	ANNELIIS KÕIV	4	Eesti Reformierakond	549	False	
-312	VLADAS RADVILAVIČIUS	4	Eesti Reformierakond	401	False	
-307	ANDRUS UMBOJA	4	Eesti Reformierakond	369	False	
-303	TÕNIS KÕIV	4	Eesti Reformierakond	355	False	
-310	AIN TÄPSI	4	Eesti Reformierakond	237	False	
-302	KALEV LILLO	4	Eesti Reformierakond	168	False	
-311	ENA SOODLA	4	Eesti Reformierakond	147	False	
-422	JUHAN PARTS	4	Erakond Isamaa ja Res Publica Liit	4208	True	
-423	MARKO MIHKELSON	4	Erakond Isamaa ja Res Publica Liit	2842	True	
-425	TIINA KANGRO	4	Erakond Isamaa ja Res Publica Liit	1669	False	
-426	AIVAR RIISALU	4	Erakond Isamaa ja Res Publica Liit	1536	False	
-424	ANDRUS SAARE	4	Erakond Isamaa ja Res Publica Liit	1054	False	
-428	MARI-ANN KELAM	4	Erakond Isamaa ja Res Publica Liit	581	False	
-429	KAUPO RÄTSEPP	4	Erakond Isamaa ja Res Publica Liit	475	False	
-437	TOOMAS TÕNISTE	4	Erakond Isamaa ja Res Publica Liit	462	False	
-427	LAURI VAHTRE	4	Erakond Isamaa ja Res Publica Liit	419	False	
-430	ANDRES LAISK	4	Erakond Isamaa ja Res Publica Liit	281	False	
-436	REET ROOS	4	Erakond Isamaa ja Res Publica Liit	254	False	
-435	ANDRES KAARMANN	4	Erakond Isamaa ja Res Publica Liit	192	False	
-432	TIIT LEIER	4	Erakond Isamaa ja Res Publica Liit	183	False	
-433	JAN TREI	4	Erakond Isamaa ja Res Publica Liit	135	False	
-434	PRIIT PÕLDMÄE	4	Erakond Isamaa ja Res Publica Liit	101	False	
-431	KADRI TILLEMANN	4	Erakond Isamaa ja Res Publica Liit	92	False	
-528	VALDUR LAHTVEE	4	Erakond Eestimaa Rohelised	427	False	
-531	JOONAS LAKS	4	Erakond Eestimaa Rohelised	155	False	
-530	IVAR SOONE	4	Erakond Eestimaa Rohelised	94	False	
-529	ANDRES MEESAK	4	Erakond Eestimaa Rohelised	63	False	
-533	KALJU VALDMANN	4	Erakond Eestimaa Rohelised	53	False	
-532	AIN KABAL	4	Erakond Eestimaa Rohelised	44	False	
-561	GEORGI BÕSTROV	4	Eestimaa Ühendatud Vasakpartei	233	False	
-562	JEVGENI GOLOVATŠ	4	Eestimaa Ühendatud Vasakpartei	85	False	
-563	HEINO RÜÜTEL	4	Eestimaa Ühendatud Vasakpartei	19	False	
-565	MADIS TÄNAVSUU	4	Eestimaa Ühendatud Vasakpartei	12	False	
-564	ALEKSANDR PAURI	4	Eestimaa Ühendatud Vasakpartei	2	False	
-612	ARTUR TALVIK	4	Eesti Vabaerakond	7308	True	
-613	ALAR MUTLI	4	Eesti Vabaerakond	995	False	
-615	AIMAR ALTOSAAR	4	Eesti Vabaerakond	413	False	
-618	PRIIT KÄRSNA	4	Eesti Vabaerakond	296	False	
-614	TIIA VÄLK	4	Eesti Vabaerakond	255	False	
-620	VEIKO HERODES	4	Eesti Vabaerakond	135	False	
-624	URMAS KRISTAL	4	Eesti Vabaerakond	113	False	
-619	LIISA OJANGU	4	Eesti Vabaerakond	112	False	
-617	KATRIN MESILANE	4	Eesti Vabaerakond	110	False	
-616	AIVAR KOITLA	4	Eesti Vabaerakond	103	False	
-625	EGGE KULBOK-LATTIK	4	Eesti Vabaerakond	89	False	
-621	ÜLLE LENNUK	4	Eesti Vabaerakond	70	False	
-626	MATI SAREVET	4	Eesti Vabaerakond	60	False	
-622	MART MUTSO	4	Eesti Vabaerakond	57	False	
-627	VAHUR HERM	4	Eesti Vabaerakond	57	False	
-623	LOIT JÕEKALDA	4	Eesti Vabaerakond	37	False	
-737	JÜRI RATAS	4	Eesti Keskerakond	7932	True	
-740	VLADIMIR VELMAN	4	Eesti Keskerakond	1294	True	
-743	VLADIMIR ARHIPOV	4	Eesti Keskerakond	838	False	
-746	NATALIA MALLEUS	4	Eesti Keskerakond	555	False	
-738	KERSTIN-OUDEKKI LOONE	4	Eesti Keskerakond	354	False	
-744	OLEG TŠUBAROV	4	Eesti Keskerakond	351	False	
-742	JÜRI VÕIGEMAST	4	Eesti Keskerakond	169	False	
-741	RENÉ TOOMSE	4	Eesti Keskerakond	167	False	
-739	VÄRNER LOOTSMANN	4	Eesti Keskerakond	136	False	
-745	AGO KOKSER	4	Eesti Keskerakond	116	False	
-752	VELLO JÕGISOO	4	Eesti Keskerakond	100	False	
-749	INDREK UUEMAA	4	Eesti Keskerakond	95	False	
-747	PEETER REBANE	4	Eesti Keskerakond	88	False	
-751	OLIVER LIIDEMANN	4	Eesti Keskerakond	81	False	
-748	MEELIS PAI	4	Eesti Keskerakond	67	False	
-750	VÄINO SASSI	4	Eesti Keskerakond	54	False	
-862	SVEN MIKSER	4	Sotsiaaldemokraatlik Erakond	4969	True	
-863	URVE PALO	4	Sotsiaaldemokraatlik Erakond	2028	True	
-877	HARDI VOLMER	4	Sotsiaaldemokraatlik Erakond	818	False	
-868	RAIVO UUKKIVI	4	Sotsiaaldemokraatlik Erakond	578	False	
-865	LIISA OVIIR	4	Sotsiaaldemokraatlik Erakond	493	False	
-864	KAREL RÜÜTLI	4	Sotsiaaldemokraatlik Erakond	293	False	
-866	TIIT TAMMSAAR	4	Sotsiaaldemokraatlik Erakond	290	False	
-870	ASTRID OJASOON	4	Sotsiaaldemokraatlik Erakond	287	False	
-871	TÕNIS BLANK	4	Sotsiaaldemokraatlik Erakond	268	False	
-876	EVELY PURRE	4	Sotsiaaldemokraatlik Erakond	160	False	
-873	MADIS ROODLA	4	Sotsiaaldemokraatlik Erakond	146	False	
-867	MAILIS ALT	4	Sotsiaaldemokraatlik Erakond	137	False	
-874	ANNE LEHT	4	Sotsiaaldemokraatlik Erakond	118	False	
-869	STANISLAV TŠEREPANOV	4	Sotsiaaldemokraatlik Erakond	111	False	
-872	EVE KISLOV	4	Sotsiaaldemokraatlik Erakond	108	False	
-875	MATI ÕUNLOO	4	Sotsiaaldemokraatlik Erakond	98	False	
-955	VELLO LEITO	4	Eesti Iseseisvuspartei	133	False	
-973	EGE HIRV	4	Üksikkandidaadid	110	False	
-965	JAAK VACKERMANN	4	Üksikkandidaadid	79	False	
-116	KAIE JAANISTE	5	Rahva Ühtsuse Erakond	50	False	
-117	ALEKS SAARNAK	5	Rahva Ühtsuse Erakond	25	False	
-188	HELLE-MOONIKA HELME	5	Eesti Konservatiivne Rahvaerakond	2399	False	
-190	URMAS SELIRAND	5	Eesti Konservatiivne Rahvaerakond	442	False	
-189	HARDI REHKALT	5	Eesti Konservatiivne Rahvaerakond	359	False	
-191	ELVO LEPPMAA	5	Eesti Konservatiivne Rahvaerakond	188	False	
-193	MEELIS MALK	5	Eesti Konservatiivne Rahvaerakond	144	False	
-192	REIN MERILA	5	Eesti Konservatiivne Rahvaerakond	87	False	
-195	PIRET KOLLO	5	Eesti Konservatiivne Rahvaerakond	80	False	
-194	AIVAR ROHILAID	5	Eesti Konservatiivne Rahvaerakond	71	False	
-313	URVE TIIDUS	5	Eesti Reformierakond	4117	True	
-314	KALLE LAANET	5	Eesti Reformierakond	2388	True	
-316	TARMO MÄND	5	Eesti Reformierakond	1233	False	
-315	LAURI LUIK	5	Eesti Reformierakond	855	True	
-318	URMAS SUKLES	5	Eesti Reformierakond	661	False	
-319	KOIT KELDER	5	Eesti Reformierakond	529	False	
-317	KAIRI UUSTULND	5	Eesti Reformierakond	497	False	
-320	INNAR MÄESALU	5	Eesti Reformierakond	209	False	
-438	RAIVO AEG	5	Erakond Isamaa ja Res Publica Liit	2001	True	
-439	TÕNIS PALTS	5	Erakond Isamaa ja Res Publica Liit	1033	False	
-441	KAIDO KAASIK	5	Erakond Isamaa ja Res Publica Liit	478	False	
-442	GEORG LINKOV	5	Erakond Isamaa ja Res Publica Liit	344	False	
-440	MERLE MÄESALU	5	Erakond Isamaa ja Res Publica Liit	289	False	
-444	ALAR SCHÖNBERG	5	Erakond Isamaa ja Res Publica Liit	277	False	
-443	RAIMOND LUNEV	5	Erakond Isamaa ja Res Publica Liit	269	False	
-445	TOOMAS TAKKIS	5	Erakond Isamaa ja Res Publica Liit	247	False	
-535	ALEKSEI LOTMAN	5	Erakond Eestimaa Rohelised	430	False	
-534	KRISTEN KANNIK	5	Erakond Eestimaa Rohelised	160	False	
-566	INNA KALD	5	Eestimaa Ühendatud Vasakpartei	15	False	
-628	ANDRES AMMAS	5	Eesti Vabaerakond	1859	True	
-629	ENN MERI	5	Eesti Vabaerakond	1619	False	
-631	JÜRI LEMBER	5	Eesti Vabaerakond	267	False	
-635	RINNO LIGE	5	Eesti Vabaerakond	202	False	
-630	MIKKO NÕUKAS	5	Eesti Vabaerakond	157	False	
-632	ARLES TAAL	5	Eesti Vabaerakond	72	False	
-634	JAAN LAATS	5	Eesti Vabaerakond	63	False	
-633	OLEV VAHER	5	Eesti Vabaerakond	58	False	
-753	ENN EESMAA	5	Eesti Keskerakond	2219	True	
-754	JAANUS KARILAID	5	Eesti Keskerakond	1056	False	
-758	MART MÄEKER	5	Eesti Keskerakond	321	False	
-755	JANNE NURMIK	5	Eesti Keskerakond	245	False	
-760	JÜRI KUUSKEMAA	5	Eesti Keskerakond	202	False	
-757	ANTS VAHTRAS	5	Eesti Keskerakond	192	False	
-759	HARALD TÕRU	5	Eesti Keskerakond	68	False	
-756	ANDRES KAMPMANN	5	Eesti Keskerakond	65	False	
-878	HANNES HANSO	5	Sotsiaaldemokraatlik Erakond	2038	True	
-879	NEEME SUUR	5	Sotsiaaldemokraatlik Erakond	1213	False	
-880	KALEV KOTKAS	5	Sotsiaaldemokraatlik Erakond	649	False	
-883	REILI RAND	5	Sotsiaaldemokraatlik Erakond	342	False	
-885	RAIMU AARDAM	5	Sotsiaaldemokraatlik Erakond	315	False	
-881	VEEVE KAASIK	5	Sotsiaaldemokraatlik Erakond	232	False	
-884	ARNO PEKSAR	5	Sotsiaaldemokraatlik Erakond	132	False	
-882	JAANUS SAHK	5	Sotsiaaldemokraatlik Erakond	97	False	
-956	OLEV AIT	5	Eesti Iseseisvuspartei	113	False	
-118	KRISTIINA OJULAND	6	Rahva Ühtsuse Erakond	273	False	
-120	ÕNNELA RAUDSEPP	6	Rahva Ühtsuse Erakond	39	False	
-119	ALLAN JAAKUS	6	Rahva Ühtsuse Erakond	12	False	
-196	ANTI POOLAMETS	6	Eesti Konservatiivne Rahvaerakond	2080	False	
-199	UNO TRUMM	6	Eesti Konservatiivne Rahvaerakond	102	False	
-202	KALMER KALAUS	6	Eesti Konservatiivne Rahvaerakond	96	False	
-198	AIGAR PÕDER	6	Eesti Konservatiivne Rahvaerakond	83	False	
-200	ARNO PIKHOF	6	Eesti Konservatiivne Rahvaerakond	63	False	
-197	ARE SAARNE	6	Eesti Konservatiivne Rahvaerakond	46	False	
-201	KRISTJAN SIIMSON	6	Eesti Konservatiivne Rahvaerakond	22	False	
-321	VALDO RANDPERE	6	Eesti Reformierakond	3170	True	
-323	MARKO TORM	6	Eesti Reformierakond	1165	False	
-322	SIGNE KIVI	6	Eesti Reformierakond	995	False	
-324	TOOMAS VAREK	6	Eesti Reformierakond	907	False	
-327	INDREK KESKÜLA	6	Eesti Reformierakond	532	False	
-325	LEO AADEL	6	Eesti Reformierakond	255	False	
-326	KAIDO VESKI	6	Eesti Reformierakond	223	False	
-446	MARKO POMERANTS	6	Erakond Isamaa ja Res Publica Liit	2681	True	
-447	EINAR VALLBAUM	6	Erakond Isamaa ja Res Publica Liit	1044	False	
-448	MIHKEL JUHKAMI	6	Erakond Isamaa ja Res Publica Liit	352	False	
-452	TAUNO TOOMPUU	6	Erakond Isamaa ja Res Publica Liit	310	False	
-450	AIN SUURKAEV	6	Erakond Isamaa ja Res Publica Liit	297	False	
-451	HANNES METS	6	Erakond Isamaa ja Res Publica Liit	228	False	
-449	HELLE NOORVÄLI	6	Erakond Isamaa ja Res Publica Liit	215	False	
-536	AGU KIVIMÄGI	6	Erakond Eestimaa Rohelised	124	False	
-537	REIGO LEHTLA	6	Erakond Eestimaa Rohelised	75	False	
-567	TÕNU VEEREMAA	6	Eestimaa Ühendatud Vasakpartei	17	False	
-636	EMIL RUTIKU	6	Eesti Vabaerakond	1243	False	
-637	ELMU KOPPELMANN	6	Eesti Vabaerakond	469	False	
-642	HEIKI HALLIK	6	Eesti Vabaerakond	241	False	
-639	MARIKA TALI	6	Eesti Vabaerakond	104	False	
-640	KRISTO KRUMM	6	Eesti Vabaerakond	95	False	
-638	REIN KOTŠIN	6	Eesti Vabaerakond	33	False	
-641	VEANA HEINMETS	6	Eesti Vabaerakond	19	False	
-761	SIRET KOTKA	6	Eesti Keskerakond	2558	True	
-762	TOOMAS VÄINASTE	6	Eesti Keskerakond	773	False	
-766	ANDRES SÕBER	6	Eesti Keskerakond	530	False	
-764	JELENA FJODOROVA	6	Eesti Keskerakond	455	False	
-767	URMAS TAMM	6	Eesti Keskerakond	365	False	
-763	ANDRES JAADLA	6	Eesti Keskerakond	298	False	
-765	JAANUS MUTLI	6	Eesti Keskerakond	262	False	
-886	RANNAR VASSILJEV	6	Sotsiaaldemokraatlik Erakond	2172	False	
-887	KAIRIT PIHLAK	6	Sotsiaaldemokraatlik Erakond	537	False	
-888	EERIK LUMISTE	6	Sotsiaaldemokraatlik Erakond	371	False	
-889	ENE AUGASMÄGI	6	Sotsiaaldemokraatlik Erakond	342	False	
-892	MAIMU BERG	6	Sotsiaaldemokraatlik Erakond	299	False	
-891	GARRI RAAGMAA	6	Sotsiaaldemokraatlik Erakond	214	False	
-890	PAUL LETTENS	6	Sotsiaaldemokraatlik Erakond	65	False	
-957	TOOMAS TAMM	6	Eesti Iseseisvuspartei	83	False	
-121	EVELYN DANILOV	7	Rahva Ühtsuse Erakond	97	False	
-122	ARNOLD PERSIDSKI	7	Rahva Ühtsuse Erakond	43	False	
-123	LJUBOV DOROŠENKO	7	Rahva Ühtsuse Erakond	34	False	
-203	ARNO KODU	7	Eesti Konservatiivne Rahvaerakond	693	False	
-204	MARI-LIIS LILLEMETS	7	Eesti Konservatiivne Rahvaerakond	141	False	
-207	MART KALAUS	7	Eesti Konservatiivne Rahvaerakond	95	False	
-205	KAI IRD	7	Eesti Konservatiivne Rahvaerakond	52	False	
-206	KSENIA VÕHMA	7	Eesti Konservatiivne Rahvaerakond	29	False	
-208	LAURI ÕUN	7	Eesti Konservatiivne Rahvaerakond	19	False	
-211	TANEL LIIVA	7	Eesti Konservatiivne Rahvaerakond	18	False	
-209	LAURI KARP	7	Eesti Konservatiivne Rahvaerakond	15	False	
-210	PIRET JANIS	7	Eesti Konservatiivne Rahvaerakond	6	False	
-328	DENISS BORODITŠ	7	Eesti Reformierakond	769	True	
-331	AIVAR SURVA	7	Eesti Reformierakond	754	False	
-330	REIN AIDMA	7	Eesti Reformierakond	655	False	
-332	AIVAR SAARELA	7	Eesti Reformierakond	535	False	
-334	TIIT KUUSMIK	7	Eesti Reformierakond	438	False	
-336	AIN SEPPIK	7	Eesti Reformierakond	326	False	
-329	TOIVO ASMER	7	Eesti Reformierakond	296	False	
-335	ENNO VINNI	7	Eesti Reformierakond	243	False	
-333	AIME KEIS	7	Eesti Reformierakond	98	False	
-453	ANVAR SAMOST	7	Erakond Isamaa ja Res Publica Liit	761	False	
-460	TAUNO VÕHMAR	7	Erakond Isamaa ja Res Publica Liit	716	False	
-454	KAJA KREISMAN	7	Erakond Isamaa ja Res Publica Liit	421	False	
-461	TUNNE-VÄLDO KELAM	7	Erakond Isamaa ja Res Publica Liit	260	False	
-456	JANEK RAIK	7	Erakond Isamaa ja Res Publica Liit	180	False	
-459	ARTUR PÕLD	7	Erakond Isamaa ja Res Publica Liit	147	False	
-457	RISTO LINDEBERG	7	Erakond Isamaa ja Res Publica Liit	119	False	
-455	ANTS PAULS	7	Erakond Isamaa ja Res Publica Liit	118	False	
-458	AIVO TAMM	7	Erakond Isamaa ja Res Publica Liit	104	False	
-538	ALEKSANDER POTOTSKI	7	Erakond Eestimaa Rohelised	57	False	
-539	ALLAN SELIN	7	Erakond Eestimaa Rohelised	43	False	
-568	VIKTOR MALÕGIN	7	Eestimaa Ühendatud Vasakpartei	58	False	
-643	PEETER KAPTEN	7	Eesti Vabaerakond	265	False	
-646	TAMARA LUIGAS	7	Eesti Vabaerakond	197	False	
-644	INNA ROSE	7	Eesti Vabaerakond	108	False	
-645	JÜRI SOONE	7	Eesti Vabaerakond	73	False	
-647	OLAV KIVIRAND	7	Eesti Vabaerakond	58	False	
-651	AVO BLANKIN	7	Eesti Vabaerakond	55	False	
-649	YURY GORDEEV	7	Eesti Vabaerakond	26	False	
-648	EVHEN TSYBULENKO	7	Eesti Vabaerakond	25	False	
-650	EINO MURUSTE	7	Eesti Vabaerakond	18	False	
-768	YANA TOOM	7	Eesti Keskerakond	11574	True	
-769	MIHHAIL STALNUHHIN	7	Eesti Keskerakond	3648	True	
-776	MARTIN REPINSKI	7	Eesti Keskerakond	1556	True	
-770	VALERI KORB	7	Eesti Keskerakond	1046	True	
-774	DMITRI DMITRIJEV	7	Eesti Keskerakond	677	False	
-773	EEVI PAASMÄE	7	Eesti Keskerakond	639	False	
-771	ELDAR EFENDIJEV	7	Eesti Keskerakond	607	False	
-772	TARMO TAMMISTE	7	Eesti Keskerakond	429	False	
-775	RIHO KUTSAR	7	Eesti Keskerakond	152	False	
-893	JEVGENI OSSINOVSKI	7	Sotsiaaldemokraatlik Erakond	2784	True	
-894	ETTI KAGAROV	7	Sotsiaaldemokraatlik Erakond	569	False	
-895	JAAK ALLIK	7	Sotsiaaldemokraatlik Erakond	369	False	
-898	KRISTINA KALLAS	7	Sotsiaaldemokraatlik Erakond	291	False	
-900	ANTS KUTTI	7	Sotsiaaldemokraatlik Erakond	254	False	
-901	TOOMAS NÕMMISTE	7	Sotsiaaldemokraatlik Erakond	251	False	
-897	INNA NAZAROVA	7	Sotsiaaldemokraatlik Erakond	207	False	
-896	EDUARD ODINETS	7	Sotsiaaldemokraatlik Erakond	173	False	
-899	GENADI AFANASSJEV	7	Sotsiaaldemokraatlik Erakond	37	False	
-958	HELE KÄNGSEPP	7	Eesti Iseseisvuspartei	54	False	
-124	PAVO RAUDSEPP	8	Rahva Ühtsuse Erakond	109	False	
-126	OTT KUKK	8	Rahva Ühtsuse Erakond	80	False	
-125	RAMO PENER	8	Rahva Ühtsuse Erakond	16	False	
-212	JAAK MADISON	8	Eesti Konservatiivne Rahvaerakond	1883	True	
-215	ENN SARV	8	Eesti Konservatiivne Rahvaerakond	441	False	
-213	REIN SUURKASK	8	Eesti Konservatiivne Rahvaerakond	197	False	
-214	MARVE PIIP	8	Eesti Konservatiivne Rahvaerakond	124	False	
-220	HELGI LIIK	8	Eesti Konservatiivne Rahvaerakond	101	False	
-216	TARMO HINTS	8	Eesti Konservatiivne Rahvaerakond	99	False	
-217	RAIVO ASUKÜLA	8	Eesti Konservatiivne Rahvaerakond	94	False	
-219	GUSTAV SINIVÄLI	8	Eesti Konservatiivne Rahvaerakond	77	False	
-218	TIMO KALAUS	8	Eesti Konservatiivne Rahvaerakond	38	False	
-337	JÜRGEN LIGI	8	Eesti Reformierakond	6757	True	
-339	JOHANNES KERT	8	Eesti Reformierakond	752	True	
-341	KRISTJAN KÕLJALG	8	Eesti Reformierakond	714	False	
-338	KALLE JENTS	8	Eesti Reformierakond	704	False	
-345	TÕNU JUUL	8	Eesti Reformierakond	521	False	
-342	MADIS TIMPSON	8	Eesti Reformierakond	430	False	
-340	PEEP ARU	8	Eesti Reformierakond	416	False	
-344	RAIT PIHELGAS	8	Eesti Reformierakond	409	False	
-462	HELIR-VALDOR SEEDER	8	Erakond Isamaa ja Res Publica Liit	2908	True	
-463	KAIA IVA	8	Erakond Isamaa ja Res Publica Liit	1684	False	
-467	ENE SAAR	8	Erakond Isamaa ja Res Publica Liit	463	False	
-464	TIINA ORASTE	8	Erakond Isamaa ja Res Publica Liit	391	False	
-465	ANDO KIVIBERG	8	Erakond Isamaa ja Res Publica Liit	378	False	
-468	LEMBIT KRUUSE	8	Erakond Isamaa ja Res Publica Liit	336	False	
-466	PRIIT VÄRK	8	Erakond Isamaa ja Res Publica Liit	313	False	
-470	KALJU KERTSMIK	8	Erakond Isamaa ja Res Publica Liit	269	False	
-469	MARKO TIITUS	8	Erakond Isamaa ja Res Publica Liit	82	False	
-540	ERNO ILSEN	8	Erakond Eestimaa Rohelised	103	False	
-541	AIN KUNINGAS	8	Erakond Eestimaa Rohelised	80	False	
-569	EDUARD TANVEL	8	Eestimaa Ühendatud Vasakpartei	17	False	
-652	MATI ILISSON	8	Eesti Vabaerakond	1075	False	
-653	ARLET PALMISTE	8	Eesti Vabaerakond	519	False	
-654	AIN OSTRA	8	Eesti Vabaerakond	170	False	
-655	ILME LAST	8	Eesti Vabaerakond	143	False	
-660	MATS ÕUN	8	Eesti Vabaerakond	128	False	
-656	VÄINO RAJANGU	8	Eesti Vabaerakond	127	False	
-658	OLEV RAHNU	8	Eesti Vabaerakond	104	False	
-657	MARGUS SARDIS	8	Eesti Vabaerakond	62	False	
-659	EVI KIRSCHFELDT	8	Eesti Vabaerakond	40	False	
-777	MAILIS REPS	8	Eesti Keskerakond	2981	True	
-779	KERSTI SARAPUU	8	Eesti Keskerakond	1164	True	
-778	PRIIT TOOBAL	8	Eesti Keskerakond	1045	True	
-780	HELMUT HALLEMAA	8	Eesti Keskerakond	435	False	
-781	RAIVO MATSINA	8	Eesti Keskerakond	140	False	
-785	MAIT MALTIS	8	Eesti Keskerakond	129	False	
-782	HANNES MÄNNIK	8	Eesti Keskerakond	105	False	
-784	ÜLLE LEESMAA	8	Eesti Keskerakond	79	False	
-783	ARE RIISTAN	8	Eesti Keskerakond	49	False	
-902	HELMEN KÜTT	8	Sotsiaaldemokraatlik Erakond	3817	True	
-903	JAANUS MARRANDI	8	Sotsiaaldemokraatlik Erakond	1050	True	
-905	ALO AASMA	8	Sotsiaaldemokraatlik Erakond	857	False	
-910	LIINA RAUD	8	Sotsiaaldemokraatlik Erakond	774	False	
-904	ÜLLE LUMI	8	Sotsiaaldemokraatlik Erakond	684	False	
-907	ARTO SAAR	8	Sotsiaaldemokraatlik Erakond	621	False	
-906	RANDEL LÄNTS	8	Sotsiaaldemokraatlik Erakond	584	False	
-908	ERICH PALM	8	Sotsiaaldemokraatlik Erakond	260	False	
-909	KAUPO KÄND	8	Sotsiaaldemokraatlik Erakond	251	False	
-959	JAANUS KRUUSMAA	8	Eesti Iseseisvuspartei	67	False	
-974	HELI KOIT	8	Üksikkandidaadid	176	False	
-127	TÕNU KALJA	9	Rahva Ühtsuse Erakond	151	False	
-221	MALLE PÄRN	9	Eesti Konservatiivne Rahvaerakond	1867	False	
-222	RAIVO PÕLDARU	9	Eesti Konservatiivne Rahvaerakond	919	True	
-224	TIIT ROSIN	9	Eesti Konservatiivne Rahvaerakond	352	False	
-226	OLEV TEDER	9	Eesti Konservatiivne Rahvaerakond	179	False	
-227	KAI TENNOSAAR	9	Eesti Konservatiivne Rahvaerakond	161	False	
-225	MATI KÖHLER	9	Eesti Konservatiivne Rahvaerakond	121	False	
-230	MARGIT AVI	9	Eesti Konservatiivne Rahvaerakond	68	False	
-223	KRISTIAN SUVE	9	Eesti Konservatiivne Rahvaerakond	67	False	
-228	TIMO AVI	9	Eesti Konservatiivne Rahvaerakond	46	False	
-229	MARET RÄTSEP	9	Eesti Konservatiivne Rahvaerakond	34	False	
-346	URMAS KRUUSE	9	Eesti Reformierakond	5960	True	
-347	IGOR GRÄZIN	9	Eesti Reformierakond	1973	True	
-348	MATI RAIDMA	9	Eesti Reformierakond	959	False	
-352	TOOMAS JÄRVEOJA	9	Eesti Reformierakond	853	False	
-349	TERJE TREI	9	Eesti Reformierakond	557	True	
-350	RENO LAIDRE	9	Eesti Reformierakond	544	False	
-353	KALMER LAIN	9	Eesti Reformierakond	319	False	
-351	VIKTOR SVJATÕŠEV	9	Eesti Reformierakond	297	False	
-354	KAISA EDENBERG	9	Eesti Reformierakond	262	False	
-355	RAIVO VADI	9	Eesti Reformierakond	172	False	
-472	AIVAR KOKK	9	Erakond Isamaa ja Res Publica Liit	1725	True	
-471	JAAK AAVIKSOO	9	Erakond Isamaa ja Res Publica Liit	1405	True	
-474	ANDRES ARRAK	9	Erakond Isamaa ja Res Publica Liit	794	False	
-473	ELLE KULL	9	Erakond Isamaa ja Res Publica Liit	467	False	
-477	JOEL LUHAMETS	9	Erakond Isamaa ja Res Publica Liit	413	False	
-475	ANTI ORAV	9	Erakond Isamaa ja Res Publica Liit	365	False	
-480	MIHKEL KÜBAR	9	Erakond Isamaa ja Res Publica Liit	302	False	
-476	TOIVO PEETS	9	Erakond Isamaa ja Res Publica Liit	269	False	
-479	AARE ANDERSON	9	Erakond Isamaa ja Res Publica Liit	180	False	
-478	RAIN SANGERNEBO	9	Erakond Isamaa ja Res Publica Liit	179	False	
-542	RASMUS LAHTVEE	9	Erakond Eestimaa Rohelised	321	False	
-543	ARVO KUIV	9	Erakond Eestimaa Rohelised	48	False	
-572	ALEKSANDR ŠIROKOV	9	Eestimaa Ühendatud Vasakpartei	58	False	
-570	SERGEI SUMIN	9	Eestimaa Ühendatud Vasakpartei	21	False	
-571	MARIJAM RANNAK	9	Eestimaa Ühendatud Vasakpartei	8	False	
-661	MÄRT MEESAK	9	Eesti Vabaerakond	1094	False	
-662	ELO LUTSEPP	9	Eesti Vabaerakond	784	False	
-670	MÄRT LÄÄNEMETS	9	Eesti Vabaerakond	326	False	
-664	MADIS AVI	9	Eesti Vabaerakond	321	False	
-665	KATRIN HAUK	9	Eesti Vabaerakond	128	False	
-668	RAIK-HIIO MIKELSAAR	9	Eesti Vabaerakond	121	False	
-663	TAUNO KURE	9	Eesti Vabaerakond	119	False	
-669	AGU RILLO	9	Eesti Vabaerakond	80	False	
-667	HEINO KALJURAND	9	Eesti Vabaerakond	59	False	
-666	VALERIA KALJUORG	9	Eesti Vabaerakond	57	False	
-786	MARIKA TUUS-LAUL	9	Eesti Keskerakond	2904	True	
-789	PEETER VÕSA	9	Eesti Keskerakond	1235	False	
-795	ALEKSANDR ŠIROKOV	9	Eesti Keskerakond	1137	False	
-788	PEETER ERNITS	9	Eesti Keskerakond	824	False	
-787	URBO VAARMANN	9	Eesti Keskerakond	431	False	
-793	ANDRES RAID	9	Eesti Keskerakond	295	False	
-790	AARE OLGO	9	Eesti Keskerakond	270	False	
-791	MAX KAUR	9	Eesti Keskerakond	269	False	
-792	ANDRES VÄÄN	9	Eesti Keskerakond	162	False	
-794	KALLE MIHKELS	9	Eesti Keskerakond	117	False	
-912	TANEL TALVE	9	Sotsiaaldemokraatlik Erakond	2294	True	
-911	JAAN ÕUNAPUU	9	Sotsiaaldemokraatlik Erakond	1447	False	
-913	JÜRI MOROZOV	9	Sotsiaaldemokraatlik Erakond	870	False	
-917	JAAN AIAOTS	9	Sotsiaaldemokraatlik Erakond	654	False	
-920	JAAN SÕRRA	9	Sotsiaaldemokraatlik Erakond	546	False	
-914	PRIIT LOMP	9	Sotsiaaldemokraatlik Erakond	543	False	
-919	ASSO NETTAN	9	Sotsiaaldemokraatlik Erakond	500	False	
-915	TRIIN PÄRSIM	9	Sotsiaaldemokraatlik Erakond	311	False	
-918	MEELIS KARRO	9	Sotsiaaldemokraatlik Erakond	242	False	
-916	KAIRI KELL	9	Sotsiaaldemokraatlik Erakond	176	False	
-960	TOIVO ÕUNAPUU	9	Eesti Iseseisvuspartei	127	False	
-129	SILVER KUUSIK	10	Rahva Ühtsuse Erakond	72	False	
-131	AULIS FISCHER	10	Rahva Ühtsuse Erakond	23	False	
-130	MERLIN ABEDI	10	Rahva Ühtsuse Erakond	13	False	
-231	IMRE MÜRK	10	Eesti Konservatiivne Rahvaerakond	1577	False	
-235	INDREK KALDA	10	Eesti Konservatiivne Rahvaerakond	542	False	
-233	MERIKE LILLENBERG	10	Eesti Konservatiivne Rahvaerakond	229	False	
-232	KALEV ESSENSON	10	Eesti Konservatiivne Rahvaerakond	214	False	
-236	TOIVO SUUROJA	10	Eesti Konservatiivne Rahvaerakond	133	False	
-239	INDREK SÄRG	10	Eesti Konservatiivne Rahvaerakond	116	False	
-234	RUUBEN KAALEP	10	Eesti Konservatiivne Rahvaerakond	102	False	
-237	AILI TUHKANEN	10	Eesti Konservatiivne Rahvaerakond	91	False	
-238	TIINA PÄRNPUU	10	Eesti Konservatiivne Rahvaerakond	77	False	
-240	RANDON VÄRSI	10	Eesti Konservatiivne Rahvaerakond	28	False	
-356	ANTS LAANEOTS	10	Eesti Reformierakond	5920	True	
-357	ANNE SULLING	10	Eesti Reformierakond	4197	True	
-358	URMAS KLAAS	10	Eesti Reformierakond	1501	True	
-359	RAIT MARUSTE	10	Eesti Reformierakond	808	False	
-360	MARGUS HANSON	10	Eesti Reformierakond	733	False	
-362	MARTIN PARMAS	10	Eesti Reformierakond	563	False	
-365	VALVO SEMILARSKI	10	Eesti Reformierakond	412	False	
-361	MIHKEL LEES	10	Eesti Reformierakond	354	False	
-363	TRIIN ANETTE KAASIK	10	Eesti Reformierakond	253	False	
-364	HELMER JÕGI	10	Eesti Reformierakond	243	False	
-481	MARGUS TSAHKNA	10	Erakond Isamaa ja Res Publica Liit	2267	True	
-483	KALLE MUULI	10	Erakond Isamaa ja Res Publica Liit	1196	False	
-490	ENE ERGMA	10	Erakond Isamaa ja Res Publica Liit	798	False	
-482	PEETER LAURSON	10	Erakond Isamaa ja Res Publica Liit	578	False	
-489	TÕNU LEHTSAAR	10	Erakond Isamaa ja Res Publica Liit	538	False	
-485	MIHHAIL LOTMAN	10	Erakond Isamaa ja Res Publica Liit	460	False	
-488	KARL KULL	10	Erakond Isamaa ja Res Publica Liit	270	False	
-484	ANNELI KANNUS	10	Erakond Isamaa ja Res Publica Liit	195	False	
-486	JÜRI KÕRE	10	Erakond Isamaa ja Res Publica Liit	113	False	
-487	PIRET ORAV	10	Erakond Isamaa ja Res Publica Liit	63	False	
-545	MART JÜSSI	10	Erakond Eestimaa Rohelised	376	False	
-544	MARKO KAASIK	10	Erakond Eestimaa Rohelised	283	False	
-546	PRIIT TRUUSALU	10	Erakond Eestimaa Rohelised	66	False	
-573	VIIVI-HELBE PELJUHHOVSKA	10	Eestimaa Ühendatud Vasakpartei	16	False	
-574	ANDRES LAIDVEE	10	Eestimaa Ühendatud Vasakpartei	6	False	
-671	KRISTA ARU	10	Eesti Vabaerakond	2529	True	
-673	PEETER VOLKONSKI	10	Eesti Vabaerakond	916	False	
-672	JÜRI ADAMS	10	Eesti Vabaerakond	720	True	
-674	PIRET TARTO	10	Eesti Vabaerakond	161	False	
-680	KALLE PILT	10	Eesti Vabaerakond	157	False	
-675	HANNES KLAAS	10	Eesti Vabaerakond	148	False	
-676	HEIKI KRIPS	10	Eesti Vabaerakond	124	False	
-677	URMET KÜLAOTS	10	Eesti Vabaerakond	107	False	
-679	LAILI JÕGIAAS	10	Eesti Vabaerakond	75	False	
-678	ARVO PÄIKE	10	Eesti Vabaerakond	66	False	
-796	AADU MUST	10	Eesti Keskerakond	2139	True	
-797	MARINA RIISALU	10	Eesti Keskerakond	1284	False	
-798	NIKOLAI PÕDRAMÄGI	10	Eesti Keskerakond	1105	False	
-799	ARTJOM SUVOROV	10	Eesti Keskerakond	699	False	
-801	IGOR ABARENKOV	10	Eesti Keskerakond	507	False	
-805	VLADIMIR ŠOKMAN	10	Eesti Keskerakond	390	False	
-800	NATALJA TROŠINA	10	Eesti Keskerakond	354	False	
-802	DIANA KLAS	10	Eesti Keskerakond	163	False	
-804	KÄTLIN TAKIS	10	Eesti Keskerakond	81	False	
-803	RAIN SUURSAAR	10	Eesti Keskerakond	65	False	
-921	MIHKEL RAUD	10	Sotsiaaldemokraatlik Erakond	3229	True	
-922	HELJO PIKHOF	10	Sotsiaaldemokraatlik Erakond	2042	True	
-923	TOOMAS JÜRGENSTEIN	10	Sotsiaaldemokraatlik Erakond	817	False	
-925	GEA KANGILASKI	10	Sotsiaaldemokraatlik Erakond	595	False	
-924	KADRI LEETMAA	10	Sotsiaaldemokraatlik Erakond	281	False	
-930	KAJAR LEMBER	10	Sotsiaaldemokraatlik Erakond	191	False	
-927	HENRI KASELO	10	Sotsiaaldemokraatlik Erakond	149	False	
-929	JARNO LAUR	10	Sotsiaaldemokraatlik Erakond	96	False	
-926	TÕNU INTS	10	Sotsiaaldemokraatlik Erakond	80	False	
-928	TIINA MERKULJEVA	10	Sotsiaaldemokraatlik Erakond	61	False	
-961	VEIKO RÄMMEL	10	Eesti Iseseisvuspartei	39	False	
-969	URMO KARUSOO	10	Üksikkandidaadid	111	False	
-132	PIRET HALJEND	11	Rahva Ühtsuse Erakond	169	False	
-134	JUHAN LIIV	11	Rahva Ühtsuse Erakond	73	False	
-133	JAAK METSALU	11	Rahva Ühtsuse Erakond	38	False	
-241	UNO KASKPEIT	11	Eesti Konservatiivne Rahvaerakond	1807	True	
-244	ANTS TAUL	11	Eesti Konservatiivne Rahvaerakond	619	False	
-243	ARNO SILD	11	Eesti Konservatiivne Rahvaerakond	523	True	
-250	AIVAR MESIKÄPP	11	Eesti Konservatiivne Rahvaerakond	281	False	
-242	MERRY AART	11	Eesti Konservatiivne Rahvaerakond	279	False	
-248	RIINA SABALISK	11	Eesti Konservatiivne Rahvaerakond	229	False	
-247	MARTTI KIROTAJA	11	Eesti Konservatiivne Rahvaerakond	171	False	
-249	VEEVI HÕRAK	11	Eesti Konservatiivne Rahvaerakond	115	False	
-251	VAINO RAUBA	11	Eesti Konservatiivne Rahvaerakond	107	False	
-245	ARTUR KARASK	11	Eesti Konservatiivne Rahvaerakond	88	False	
-246	ENDEL-HALJAND SUSI	11	Eesti Konservatiivne Rahvaerakond	56	False	
-366	HANNO PEVKUR	11	Eesti Reformierakond	3816	True	
-367	LIINA KERSNA	11	Eesti Reformierakond	2387	True	
-368	MEELIS MÄLBERG	11	Eesti Reformierakond	1040	False	
-369	MARGUS LEPIK	11	Eesti Reformierakond	782	False	
-370	AIVAR ROSENBERG	11	Eesti Reformierakond	645	False	
-372	AGU KABRITS	11	Eesti Reformierakond	519	False	
-371	ANDRUS SEEME	11	Eesti Reformierakond	472	False	
-373	PEETER SIBUL	11	Eesti Reformierakond	408	False	
-374	JÜRI KAVER	11	Eesti Reformierakond	395	False	
-376	LIIVI MARAN	11	Eesti Reformierakond	384	False	
-375	ANTI HAUGAS	11	Eesti Reformierakond	186	False	
-492	PRIIT SIBUL	11	Erakond Isamaa ja Res Publica Liit	1491	True	
-501	IGOR TARO	11	Erakond Isamaa ja Res Publica Liit	1202	False	
-491	MAIRE AUNASTE	11	Erakond Isamaa ja Res Publica Liit	679	True	
-494	ULLA PREEDEN	11	Erakond Isamaa ja Res Publica Liit	539	False	
-493	ÜLO TULIK	11	Erakond Isamaa ja Res Publica Liit	490	False	
-496	KURMET MÜÜRSEPP	11	Erakond Isamaa ja Res Publica Liit	330	False	
-495	ARNE TILK	11	Erakond Isamaa ja Res Publica Liit	292	False	
-497	MAREK MEKK	11	Erakond Isamaa ja Res Publica Liit	208	False	
-498	KALLE VISTER	11	Erakond Isamaa ja Res Publica Liit	205	False	
-499	JAAK PÄCHTER	11	Erakond Isamaa ja Res Publica Liit	127	False	
-500	SIRLE ROSENFELDT	11	Erakond Isamaa ja Res Publica Liit	74	False	
-547	AGO SAMOSON	11	Erakond Eestimaa Rohelised	196	False	
-548	ZOJA MELLOV	11	Erakond Eestimaa Rohelised	52	False	
-549	ARVI MATVEI	11	Erakond Eestimaa Rohelised	43	False	
-575	NIINA NETŠAJEVA	11	Eestimaa Ühendatud Vasakpartei	40	False	
-681	KAUL NURM	11	Eesti Vabaerakond	1315	False	
-682	MERLE JÄÄGER	11	Eesti Vabaerakond	986	False	
-685	KAIE HERKEL	11	Eesti Vabaerakond	185	False	
-688	TANEL VALK	11	Eesti Vabaerakond	161	False	
-691	URMAS OTT	11	Eesti Vabaerakond	129	False	
-684	IVO PILL	11	Eesti Vabaerakond	123	False	
-683	KALLE KALJUSTE	11	Eesti Vabaerakond	96	False	
-686	URMAS HEINASTE	11	Eesti Vabaerakond	93	False	
-690	VALEV ELERAND	11	Eesti Vabaerakond	72	False	
-689	SILVER SAARVA	11	Eesti Vabaerakond	59	False	
-687	EDUARD KASSIN	11	Eesti Vabaerakond	15	False	
-806	HEIMAR LENK	11	Eesti Keskerakond	3398	True	
-808	TARMO TAMM	11	Eesti Keskerakond	1721	True	
-807	ANNELI OTT	11	Eesti Keskerakond	1119	False	
-810	ALAR NÄÄME	11	Eesti Keskerakond	798	False	
-816	TOOMAS PAUR	11	Eesti Keskerakond	511	False	
-814	TOIVO TOOTSEN	11	Eesti Keskerakond	232	False	
-811	EVE SALUNDI	11	Eesti Keskerakond	224	False	
-809	JANIKA USIN	11	Eesti Keskerakond	200	False	
-812	ANDRE LAINE	11	Eesti Keskerakond	197	False	
-813	LIIS TAPPO-TREIAL	11	Eesti Keskerakond	155	False	
-815	HEIDY TAMME	11	Eesti Keskerakond	115	False	
-931	IVARI PADAR	11	Sotsiaaldemokraatlik Erakond	3992	True	
-934	KALVI KÕVA	11	Sotsiaaldemokraatlik Erakond	2081	True	
-941	INARA LUIGAS	11	Sotsiaaldemokraatlik Erakond	1192	False	
-933	REIN RANDVER	11	Sotsiaaldemokraatlik Erakond	1003	False	
-932	SIRJE TOBRELUTS	11	Sotsiaaldemokraatlik Erakond	849	False	
-936	TARMO TAMM	11	Sotsiaaldemokraatlik Erakond	452	True	
-937	SILJA SUIJA	11	Sotsiaaldemokraatlik Erakond	390	False	
-935	RAUL KUDRE	11	Sotsiaaldemokraatlik Erakond	245	False	
-938	REIN JÄRVELILL	11	Sotsiaaldemokraatlik Erakond	218	False	
-940	SIXTEN SILD	11	Sotsiaaldemokraatlik Erakond	203	False	
-939	KALEV HÄRK	11	Sotsiaaldemokraatlik Erakond	191	False	
-962	ARGO MÕTTUS	11	Eesti Iseseisvuspartei	111	False	
-967	MAREK RANNE	11	Üksikkandidaadid	114	False	
-972	TARMO PORROSON	11	Üksikkandidaadid	59	False	
-135	ANDRUS SOOPALU	12	Rahva Ühtsuse Erakond	349	False	
-136	ANDRES LAINELA	12	Rahva Ühtsuse Erakond	32	False	
-252	MART HELME	12	Eesti Konservatiivne Rahvaerakond	6714	True	
-253	HELDUR PAULSON	12	Eesti Konservatiivne Rahvaerakond	132	False	
-255	KÄDE KALAMEES	12	Eesti Konservatiivne Rahvaerakond	84	False	
-254	HELLE KULLERKUPP	12	Eesti Konservatiivne Rahvaerakond	70	False	
-259	IIVI KALLASTE	12	Eesti Konservatiivne Rahvaerakond	58	False	
-260	TIINA TOOMJÕE	12	Eesti Konservatiivne Rahvaerakond	41	False	
-257	MATI LEHOLA	12	Eesti Konservatiivne Rahvaerakond	28	False	
-258	HEIKI MERIRAND	12	Eesti Konservatiivne Rahvaerakond	28	False	
-256	ANDRUS LELOV	12	Eesti Konservatiivne Rahvaerakond	24	False	
-261	TIINA ESPENBERG	12	Eesti Konservatiivne Rahvaerakond	9	False	
-377	TOOMAS KIVIMÄGI	12	Eesti Reformierakond	7603	True	
-378	JÜRI JAANSON	12	Eesti Reformierakond	1328	True	
-379	VÄINO LINDE	12	Eesti Reformierakond	1206	False	
-380	VÄINO HALLIKMÄGI	12	Eesti Reformierakond	293	False	
-381	MEELI PÄRNA	12	Eesti Reformierakond	263	False	
-382	RIIDO VILLUP	12	Eesti Reformierakond	202	False	
-386	KRISTJAN HEAMÄE	12	Eesti Reformierakond	167	False	
-383	MAARJA KÕRV	12	Eesti Reformierakond	162	False	
-384	KALEV PÄIT	12	Eesti Reformierakond	96	False	
-385	CARMEN ILLAK	12	Eesti Reformierakond	92	False	
-503	ANDRES METSOJA	12	Erakond Isamaa ja Res Publica Liit	2207	True	
-502	ANNELY AKKERMANN	12	Erakond Isamaa ja Res Publica Liit	1571	False	
-511	TRIVIMI VELLISTE	12	Erakond Isamaa ja Res Publica Liit	451	False	
-504	REIN KILK	12	Erakond Isamaa ja Res Publica Liit	260	False	
-508	LAURI LUUR	12	Erakond Isamaa ja Res Publica Liit	251	False	
-506	MEELIS KUKK	12	Erakond Isamaa ja Res Publica Liit	236	False	
-507	KRISTA NÕMM	12	Erakond Isamaa ja Res Publica Liit	221	False	
-510	MARI SUURVÄLI	12	Erakond Isamaa ja Res Publica Liit	71	False	
-505	TIIT MATSULEVITŠ	12	Erakond Isamaa ja Res Publica Liit	39	False	
-509	GEORG MÄNNIK	12	Erakond Isamaa ja Res Publica Liit	30	False	
-550	MART SAARSO	12	Erakond Eestimaa Rohelised	202	False	
-551	OVE VARIK	12	Erakond Eestimaa Rohelised	49	False	
-576	GENNADI VEREŠTŠAGIN	12	Eestimaa Ühendatud Vasakpartei	21	False	
-692	JÜRI SAAR	12	Eesti Vabaerakond	1161	False	
-693	KADRI JÄÄTMA	12	Eesti Vabaerakond	407	False	
-694	ELMO JOA	12	Eesti Vabaerakond	289	False	
-696	HELI KÜNNAPAS	12	Eesti Vabaerakond	277	False	
-697	JOHANNES KASS	12	Eesti Vabaerakond	122	False	
-695	ANTS ERM	12	Eesti Vabaerakond	111	False	
-701	JAANUS OJANGU	12	Eesti Vabaerakond	77	False	
-700	REIN PRINS	12	Eesti Vabaerakond	59	False	
-698	ENN RÄHN	12	Eesti Vabaerakond	47	False	
-699	HILLAR VAIK	12	Eesti Vabaerakond	46	False	
-817	KADRI SIMSON	12	Eesti Keskerakond	5726	True	
-818	MARKO ŠORIN	12	Eesti Keskerakond	464	False	
-819	HILLAR TALVIK	12	Eesti Keskerakond	265	False	
-820	RIHO ALLIKSOO	12	Eesti Keskerakond	264	False	
-822	SVETLANA TŠIPURINA	12	Eesti Keskerakond	248	False	
-821	KALLE SONG	12	Eesti Keskerakond	184	False	
-825	ANNE BETKER	12	Eesti Keskerakond	115	False	
-823	AVO KEEL	12	Eesti Keskerakond	102	False	
-824	ANTS LOPSIK	12	Eesti Keskerakond	100	False	
-826	ARGO MENGEL	12	Eesti Keskerakond	76	False	
-942	INDREK SAAR	12	Sotsiaaldemokraatlik Erakond	1944	True	
-945	MARK SOOSAAR	12	Sotsiaaldemokraatlik Erakond	613	False	
-944	AET MAATEE	12	Sotsiaaldemokraatlik Erakond	504	False	
-947	VALTER PARVE	12	Sotsiaaldemokraatlik Erakond	363	False	
-946	MERCEDES MERIMAA	12	Sotsiaaldemokraatlik Erakond	249	False	
-943	TATJANA JAANSON	12	Sotsiaaldemokraatlik Erakond	230	False	
-951	KADRI-AIJA VIIK	12	Sotsiaaldemokraatlik Erakond	221	False	
-948	PRIIT RUUT	12	Sotsiaaldemokraatlik Erakond	191	False	
-949	KALEV KALJUSTE	12	Sotsiaaldemokraatlik Erakond	182	False	
-950	ANDRES HIRVELA	12	Sotsiaaldemokraatlik Erakond	144	False	
-963	PEETER PAEMURRU	12	Eesti Iseseisvuspartei	88	False	
+number	name	district	party	votes	mandate_method
+101	VERONIKA ISBERG	1	Rahva Ühtsuse Erakond	55	None	
+102	VADIM ŠAPTŠENKO	1	Rahva Ühtsuse Erakond	20	None	
+103	AIMAR JUKKUM	1	Rahva Ühtsuse Erakond	14	None	
+137	URMAS ESPENBERG	1	Eesti Konservatiivne Rahvaerakond	2087	None	
+138	NELE VALGEPEA	1	Eesti Konservatiivne Rahvaerakond	281	None	
+147	MARET JÕGI	1	Eesti Konservatiivne Rahvaerakond	130	None	
+141	RIHO RAUSMA	1	Eesti Konservatiivne Rahvaerakond	116	None	
+143	ANNIKA SOOTS	1	Eesti Konservatiivne Rahvaerakond	101	None	
+139	TAIVO PÕRK	1	Eesti Konservatiivne Rahvaerakond	83	None	
+146	REIN PIKA	1	Eesti Konservatiivne Rahvaerakond	57	None	
+145	URMAS SIEMER	1	Eesti Konservatiivne Rahvaerakond	47	None	
+140	NIKOLAI JAKOBIŠVILI	1	Eesti Konservatiivne Rahvaerakond	28	None	
+142	MARIKA ISTAHL	1	Eesti Konservatiivne Rahvaerakond	28	None	
+144	ALEKSANDER TŠERNIKOV	1	Eesti Konservatiivne Rahvaerakond	28	None	
+262	KRISTEN MICHAL	1	Eesti Reformierakond	4766	district	
+263	HEIDY PURGA	1	Eesti Reformierakond	3283	district	
+265	VILJA SAVISAAR-TOOMAST	1	Eesti Reformierakond	2395	None	
+264	REMO HOLSMER	1	Eesti Reformierakond	1385	None	
+266	TIINA LOKK-TRAMBERG	1	Eesti Reformierakond	977	None	
+267	ANTS LEEMETS	1	Eesti Reformierakond	570	None	
+271	ANDRES ARO	1	Eesti Reformierakond	206	None	
+270	LIINA HERMAKÜLA	1	Eesti Reformierakond	184	None	
+269	KARIN PÄRTEL	1	Eesti Reformierakond	150	None	
+268	TATJANA MURAVJOVA	1	Eesti Reformierakond	144	None	
+272	GEROL SILKIN	1	Eesti Reformierakond	89	None	
+387	KEN-MARTI VAHER	1	Erakond Isamaa ja Res Publica Liit	2313	district	
+388	LIISA-LY PAKOSTA	1	Erakond Isamaa ja Res Publica Liit	1808	None	
+389	TARMO KRUUSIMÄE	1	Erakond Isamaa ja Res Publica Liit	1260	None	
+395	TIIT MEREN	1	Erakond Isamaa ja Res Publica Liit	292	None	
+391	DIANA INGERAINEN	1	Erakond Isamaa ja Res Publica Liit	288	None	
+390	MAKSIM ROGALSKI	1	Erakond Isamaa ja Res Publica Liit	278	None	
+394	AVO ÜPRUS	1	Erakond Isamaa ja Res Publica Liit	247	None	
+393	TIIA SIHVER	1	Erakond Isamaa ja Res Publica Liit	233	None	
+397	TIIT RIISALO	1	Erakond Isamaa ja Res Publica Liit	229	None	
+392	IMRE RAMMUL	1	Erakond Isamaa ja Res Publica Liit	158	None	
+396	HENRIK AAVIK	1	Erakond Isamaa ja Res Publica Liit	87	None	
+512	OLEV-ANDRES TINN	1	Erakond Eestimaa Rohelised	247	None	
+514	EERO UUSTALU	1	Erakond Eestimaa Rohelised	85	None	
+517	MIHKEL VESKIMÄGI	1	Erakond Eestimaa Rohelised	69	None	
+516	PIRET KÄIGE	1	Erakond Eestimaa Rohelised	62	None	
+515	RAIVO JUURAK	1	Erakond Eestimaa Rohelised	39	None	
+513	ANDREI GUDIM	1	Erakond Eestimaa Rohelised	37	None	
+552	VICTOR POLYAKOFF	1	Eestimaa Ühendatud Vasakpartei	16	None	
+555	JEKATERINA KRAVTSOVA	1	Eestimaa Ühendatud Vasakpartei	11	None	
+553	DIANA VINOGRADOVA	1	Eestimaa Ühendatud Vasakpartei	9	None	
+554	ADA LEIST	1	Eestimaa Ühendatud Vasakpartei	3	None	
+577	NEEME KUNINGAS	1	Eesti Vabaerakond	2432	None	
+578	KÜLLIKI KÜBARSEPP	1	Eesti Vabaerakond	1032	compensation	
+579	ANTS MILLER	1	Eesti Vabaerakond	227	None	
+581	TÕNU TEEVEER	1	Eesti Vabaerakond	210	None	
+580	LII RAMJALG	1	Eesti Vabaerakond	192	None	
+583	GEORG KIRSBERG	1	Eesti Vabaerakond	179	None	
+586	KUIDO MERITS	1	Eesti Vabaerakond	87	None	
+582	IVIKA PUUST	1	Eesti Vabaerakond	70	None	
+587	JAANUS PAASOJA	1	Eesti Vabaerakond	59	None	
+584	PEETER KÕLUVERE	1	Eesti Vabaerakond	50	None	
+585	MAGOMED MURTUZALIEV	1	Eesti Vabaerakond	19	None	
+702	MIHHAIL KÕLVART	1	Eesti Keskerakond	10996	personal	
+703	VIKTOR VASSILJEV	1	Eesti Keskerakond	1862	district	
+712	MÄRT SULTS	1	Eesti Keskerakond	1285	district	
+707	ANDREI NOVIKOV	1	Eesti Keskerakond	1096	None	
+706	KARIN TAMMEMÄGI	1	Eesti Keskerakond	881	None	
+708	MAREK JÜRGENSON	1	Eesti Keskerakond	687	None	
+704	KALEV KALLO	1	Eesti Keskerakond	575	compensation	
+711	ANTON STALNUHHIN	1	Eesti Keskerakond	491	None	
+705	LAURI LAASI	1	Eesti Keskerakond	407	compensation	
+710	ENNO TAMM	1	Eesti Keskerakond	346	None	
+709	IRINA ANTONJUK	1	Eesti Keskerakond	290	None	
+827	EIKI NESTOR	1	Sotsiaaldemokraatlik Erakond	3744	district	
+829	ALEKSEI TUROVSKI	1	Sotsiaaldemokraatlik Erakond	1787	None	
+828	MARIANNE MIKKO	1	Sotsiaaldemokraatlik Erakond	859	None	
+830	JAAK JUSKE	1	Sotsiaaldemokraatlik Erakond	476	None	
+837	KATRIN SAKS	1	Sotsiaaldemokraatlik Erakond	291	None	
+831	SIRJE KEEVALLIK	1	Sotsiaaldemokraatlik Erakond	166	None	
+833	SANDRA KAMILOVA	1	Sotsiaaldemokraatlik Erakond	126	None	
+832	MARIS SILD	1	Sotsiaaldemokraatlik Erakond	87	None	
+835	TIIA TIIK	1	Sotsiaaldemokraatlik Erakond	78	None	
+834	RAIKO PUUSTUSMAA	1	Sotsiaaldemokraatlik Erakond	56	None	
+836	HEINART PUHKIM	1	Sotsiaaldemokraatlik Erakond	48	None	
+952	RAIVO ORGUSAAR	1	Eesti Iseseisvuspartei	107	None	
+970	SVETLANA IVNITSKAJA	1	Üksikkandidaadid	46	None	
+107	KERLI GREEN	2	Rahva Ühtsuse Erakond	43	None	
+104	ALEKSANDR APOLINSKY	2	Rahva Ühtsuse Erakond	38	None	
+105	BEATRICE FENICE	2	Rahva Ühtsuse Erakond	25	None	
+106	MARITA PITK	2	Rahva Ühtsuse Erakond	15	None	
+148	MARE LIIGER	2	Eesti Konservatiivne Rahvaerakond	1924	None	
+154	RAUL ÖPIK	2	Eesti Konservatiivne Rahvaerakond	265	None	
+157	REIN TÖLP	2	Eesti Konservatiivne Rahvaerakond	225	None	
+152	TOOMAS RULL	2	Eesti Konservatiivne Rahvaerakond	205	None	
+151	GUNNAR STAHL	2	Eesti Konservatiivne Rahvaerakond	155	None	
+149	KAIRET GRASSMANN	2	Eesti Konservatiivne Rahvaerakond	132	None	
+150	ORHAN OKTAIN	2	Eesti Konservatiivne Rahvaerakond	125	None	
+153	VEIKO HARTWIG VALGEPEA	2	Eesti Konservatiivne Rahvaerakond	87	None	
+158	ALAR EHALA	2	Eesti Konservatiivne Rahvaerakond	68	None	
+160	TRIIN VAN DOORSLAER	2	Eesti Konservatiivne Rahvaerakond	53	None	
+161	VEIKO KRASS	2	Eesti Konservatiivne Rahvaerakond	49	None	
+155	RIHO NÜÜD	2	Eesti Konservatiivne Rahvaerakond	44	None	
+159	JUHAN KOBIN	2	Eesti Konservatiivne Rahvaerakond	35	None	
+156	OLEV PIIR	2	Eesti Konservatiivne Rahvaerakond	29	None	
+273	KEIT PENTUS-ROSIMANNUS	2	Eesti Reformierakond	5716	district	
+274	ARTO AAS	2	Eesti Reformierakond	2517	district	
+278	IMRE SOOÄÄR	2	Eesti Reformierakond	2102	None	
+280	IVI EENMAA	2	Eesti Reformierakond	1407	None	
+276	URMAS SUTROP	2	Eesti Reformierakond	1109	None	
+277	ÜLLE RAJASALU	2	Eesti Reformierakond	1066	None	
+275	NIKOLAI NOVOSJOLOV	2	Eesti Reformierakond	1016	None	
+279	KALEV KALLEMETS	2	Eesti Reformierakond	423	None	
+285	KALEV KUKK	2	Eesti Reformierakond	256	None	
+281	EVE PÄRNASTE	2	Eesti Reformierakond	183	None	
+282	GEORG AHER	2	Eesti Reformierakond	174	None	
+286	TAAVI TOPPI	2	Eesti Reformierakond	131	None	
+284	TOOMAS VIKS	2	Eesti Reformierakond	95	None	
+283	OLGA AŠIHMINA	2	Eesti Reformierakond	40	None	
+398	VIKTORIA LADÕNSKAJA	2	Erakond Isamaa ja Res Publica Liit	1393	district	
+399	SVEN SESTER	2	Erakond Isamaa ja Res Publica Liit	1392	None	
+411	JUKU-KALLE RAID	2	Erakond Isamaa ja Res Publica Liit	1257	None	
+400	ERKI NOOL	2	Erakond Isamaa ja Res Publica Liit	1020	None	
+402	RIINA SOLMAN	2	Erakond Isamaa ja Res Publica Liit	810	None	
+404	LAGLE PAREK	2	Erakond Isamaa ja Res Publica Liit	569	None	
+405	PRIIDU PÄRNA	2	Erakond Isamaa ja Res Publica Liit	381	None	
+401	HENDRIK AGUR	2	Erakond Isamaa ja Res Publica Liit	336	None	
+403	KALEV VAPPER	2	Erakond Isamaa ja Res Publica Liit	264	None	
+407	MADIS PÄTS	2	Erakond Isamaa ja Res Publica Liit	194	None	
+409	ILLIMAR LEPPIK VON WIRÉN	2	Erakond Isamaa ja Res Publica Liit	160	None	
+408	LINDA EICHLER	2	Erakond Isamaa ja Res Publica Liit	133	None	
+410	SÜLVI SARAPUU	2	Erakond Isamaa ja Res Publica Liit	87	None	
+406	REET TREI	2	Erakond Isamaa ja Res Publica Liit	62	None	
+518	ALEKSANDER LAANE	2	Erakond Eestimaa Rohelised	404	None	
+520	KÜLLIKE REIMAA	2	Erakond Eestimaa Rohelised	104	None	
+519	DARJA VORONTSOVA	2	Erakond Eestimaa Rohelised	43	None	
+522	EVALD LANGEBRAUN	2	Erakond Eestimaa Rohelised	37	None	
+521	SERGE TJURIN	2	Erakond Eestimaa Rohelised	10	None	
+556	VALEV KALD	2	Eestimaa Ühendatud Vasakpartei	30	None	
+558	ALEKSEI DAVÕDOV	2	Eestimaa Ühendatud Vasakpartei	17	None	
+557	VLADIMIR KRUTŠININ	2	Eestimaa Ühendatud Vasakpartei	11	None	
+588	ANDRES HERKEL	2	Eesti Vabaerakond	4227	district	
+590	MONIKA HAUKANÕMM	2	Eesti Vabaerakond	450	compensation	
+589	JEVGENI KRIŠTAFOVITŠ	2	Eesti Vabaerakond	446	None	
+597	JAAN RIIS	2	Eesti Vabaerakond	236	None	
+593	MARGUS MAIDLA	2	Eesti Vabaerakond	131	None	
+591	MARIS MERISTE	2	Eesti Vabaerakond	127	None	
+601	HELDUR-VALDEK SEEDER	2	Eesti Vabaerakond	104	None	
+600	HOLGER PEEL	2	Eesti Vabaerakond	95	None	
+599	KULNO KESKÜLA	2	Eesti Vabaerakond	72	None	
+594	JAANUS LUKA	2	Eesti Vabaerakond	69	None	
+598	ALDO VAINO	2	Eesti Vabaerakond	48	None	
+595	ALEKSANDR DORMIDONTOV	2	Eesti Vabaerakond	29	None	
+596	ALAR MAAS	2	Eesti Vabaerakond	25	None	
+592	RAIVO OLMET	2	Eesti Vabaerakond	20	None	
+713	EDGAR SAVISAAR	2	Eesti Keskerakond	25057	personal	
+714	OLGA IVANOVA	2	Eesti Keskerakond	1948	district	
+726	MIHHAIL KORB	2	Eesti Keskerakond	1904	district	
+715	TOOMAS VITSUT	2	Eesti Keskerakond	503	compensation	
+717	KALLE KLANDORF	2	Eesti Keskerakond	400	None	
+722	MARIA JUFEREVA	2	Eesti Keskerakond	376	None	
+716	ELENA GLEBOVA	2	Eesti Keskerakond	310	None	
+725	NELLI PRIVALOVA	2	Eesti Keskerakond	228	None	
+720	AINI HÄRM	2	Eesti Keskerakond	218	None	
+719	TARMO KRIIS	2	Eesti Keskerakond	215	None	
+723	JURI DANILOV	2	Eesti Keskerakond	173	None	
+721	TÕNIS MÖLDER	2	Eesti Keskerakond	169	None	
+718	TAAVI AAS	2	Eesti Keskerakond	156	None	
+724	HELEN LAUSMA-SAAR	2	Eesti Keskerakond	49	None	
+838	ANDRES ANVELT	2	Sotsiaaldemokraatlik Erakond	3558	district	
+839	BARBI-JENNY PILVRE-STORGARD	2	Sotsiaaldemokraatlik Erakond	909	None	
+851	ANDREI HVOSTOV	2	Sotsiaaldemokraatlik Erakond	740	None	
+850	KARL-MARTIN SINIJÄRV	2	Sotsiaaldemokraatlik Erakond	565	None	
+841	VADIM BELOBROVTSEV	2	Sotsiaaldemokraatlik Erakond	387	None	
+843	OTT PÄRNA	2	Sotsiaaldemokraatlik Erakond	268	None	
+845	SIIM TUISK	2	Sotsiaaldemokraatlik Erakond	268	None	
+844	TOOMAS ALATALU	2	Sotsiaaldemokraatlik Erakond	253	None	
+842	ANDRA VEIDEMANN	2	Sotsiaaldemokraatlik Erakond	235	None	
+848	TIIU KUURME	2	Sotsiaaldemokraatlik Erakond	197	None	
+840	JELENA POVERINA-TŠERNÕH	2	Sotsiaaldemokraatlik Erakond	167	None	
+846	REET LAJA	2	Sotsiaaldemokraatlik Erakond	118	None	
+849	REIGO KIMMEL	2	Sotsiaaldemokraatlik Erakond	95	None	
+847	JEVGENIA KIRILOVA	2	Sotsiaaldemokraatlik Erakond	67	None	
+953	LAURI LIIKANE	2	Eesti Iseseisvuspartei	58	None	
+971	MAARIKA PÄHKLEMÄE	2	Üksikkandidaadid	82	None	
+966	GREETE REINSON	2	Üksikkandidaadid	42	None	
+968	HENN LEETNA	2	Üksikkandidaadid	42	None	
+964	ILMAR IBRAGIMOV	2	Üksikkandidaadid	26	None	
+108	JANE SNAITH	3	Rahva Ühtsuse Erakond	41	None	
+110	MARIO MÄRTSON	3	Rahva Ühtsuse Erakond	19	None	
+109	ANDREA GREEN	3	Rahva Ühtsuse Erakond	18	None	
+162	MARTIN HELME	3	Eesti Konservatiivne Rahvaerakond	4296	compensation	
+168	PIIA PAEMURRU	3	Eesti Konservatiivne Rahvaerakond	76	None	
+164	KAAREL JAAK ROOSAARE	3	Eesti Konservatiivne Rahvaerakond	51	None	
+163	ANDRUS LEBERECHT	3	Eesti Konservatiivne Rahvaerakond	32	None	
+170	IVO RATAS	3	Eesti Konservatiivne Rahvaerakond	32	None	
+171	KALJU MÄTIK	3	Eesti Konservatiivne Rahvaerakond	24	None	
+165	WESSE ALLIK	3	Eesti Konservatiivne Rahvaerakond	21	None	
+169	JAAK VIMM	3	Eesti Konservatiivne Rahvaerakond	15	None	
+166	MARGUS REEMETS	3	Eesti Konservatiivne Rahvaerakond	12	None	
+167	EDGAR VIIGIMÄE	3	Eesti Konservatiivne Rahvaerakond	11	None	
+287	URMAS PAET	3	Eesti Reformierakond	7868	personal	
+288	MARIS LAURI	3	Eesti Reformierakond	4019	district	
+289	EERIK-NIILES KROSS	3	Eesti Reformierakond	1944	None	
+291	PAUL-EERIK RUMMO	3	Eesti Reformierakond	642	None	
+290	MARTIN KUKK	3	Eesti Reformierakond	456	compensation	
+295	EERO MERILIND	3	Eesti Reformierakond	291	None	
+296	ÕNNE PILLAK	3	Eesti Reformierakond	203	None	
+293	JOONAS VÄNTO	3	Eesti Reformierakond	160	None	
+292	KAIDO KAABERMA	3	Eesti Reformierakond	131	None	
+294	JOEL JESSE	3	Eesti Reformierakond	70	None	
+412	URMAS REINSALU	3	Erakond Isamaa ja Res Publica Liit	2949	district	
+414	MART NUTT	3	Erakond Isamaa ja Res Publica Liit	1068	None	
+413	SIIM VALMAR KIISLER	3	Erakond Isamaa ja Res Publica Liit	556	None	
+415	EVELIN SAMUEL	3	Erakond Isamaa ja Res Publica Liit	268	None	
+417	ANDRES ÖPIK	3	Erakond Isamaa ja Res Publica Liit	198	None	
+419	JAAK UUDMÄE	3	Erakond Isamaa ja Res Publica Liit	187	None	
+420	TIIT PAPP	3	Erakond Isamaa ja Res Publica Liit	144	None	
+418	ANDRES ERGMA	3	Erakond Isamaa ja Res Publica Liit	132	None	
+416	URMAS MARDI	3	Erakond Isamaa ja Res Publica Liit	108	None	
+421	MADIS KÜBAR	3	Erakond Isamaa ja Res Publica Liit	86	None	
+523	TÕNU TRUBETSKY	3	Erakond Eestimaa Rohelised	347	None	
+524	MAIGI KÄIGE	3	Erakond Eestimaa Rohelised	65	None	
+525	ANNE ARTUS	3	Erakond Eestimaa Rohelised	43	None	
+527	ALLAN TALU	3	Erakond Eestimaa Rohelised	34	None	
+526	MIKK PARIS	3	Erakond Eestimaa Rohelised	23	None	
+559	VLADIMIR DROZDOV	3	Eestimaa Ühendatud Vasakpartei	28	None	
+560	SVETLANA MOSKVINA	3	Eestimaa Ühendatud Vasakpartei	11	None	
+602	AIN LUTSEPP	3	Eesti Vabaerakond	4109	district	
+603	SERGEI METLEV	3	Eesti Vabaerakond	509	None	
+611	ÜLO MATTHEUS	3	Eesti Vabaerakond	167	None	
+605	TÕNU PLOOMPUU	3	Eesti Vabaerakond	143	None	
+604	ANNE HANSBERG	3	Eesti Vabaerakond	126	None	
+606	TARMO KALDMA	3	Eesti Vabaerakond	97	None	
+609	EDA HEINLA	3	Eesti Vabaerakond	97	None	
+607	TAAVI SIMSON	3	Eesti Vabaerakond	69	None	
+610	JAAN MIHKEL UUSTALU	3	Eesti Vabaerakond	68	None	
+608	MARGUS JAAGO	3	Eesti Vabaerakond	36	None	
+730	REIN RATAS	3	Eesti Keskerakond	3449	district	
+729	ERKI SAVISAAR	3	Eesti Keskerakond	1826	district	
+727	ARVO SARAPUU	3	Eesti Keskerakond	1662	None	
+736	IGOR KRAVTŠENKO	3	Eesti Keskerakond	1360	None	
+733	MARGARITA TŠERNOGOROVA	3	Eesti Keskerakond	1159	None	
+735	EDUARD TOMAN	3	Eesti Keskerakond	953	None	
+728	MERIKE MARTINSON	3	Eesti Keskerakond	946	None	
+731	HELLE KALDA	3	Eesti Keskerakond	771	None	
+732	TIIT TERIK	3	Eesti Keskerakond	389	None	
+734	IRINA EMBRICH	3	Eesti Keskerakond	217	None	
+852	RAINER VAKRA	3	Sotsiaaldemokraatlik Erakond	4132	district	
+853	MART MERI	3	Sotsiaaldemokraatlik Erakond	788	None	
+861	SILVER MEIKAR	3	Sotsiaaldemokraatlik Erakond	738	None	
+854	OLGA SÕTNIK	3	Sotsiaaldemokraatlik Erakond	358	None	
+857	ANTO LIIVAT	3	Sotsiaaldemokraatlik Erakond	353	None	
+855	LAURI LAATS	3	Sotsiaaldemokraatlik Erakond	282	None	
+856	KADI PÄRNITS	3	Sotsiaaldemokraatlik Erakond	245	None	
+858	KÜLLI URB	3	Sotsiaaldemokraatlik Erakond	176	None	
+859	JAAK KANGILASKI	3	Sotsiaaldemokraatlik Erakond	142	None	
+860	GERD TARAND	3	Sotsiaaldemokraatlik Erakond	97	None	
+954	MERLE OTSMAA	3	Eesti Iseseisvuspartei	67	None	
+111	RAIMO KÄGU	4	Rahva Ühtsuse Erakond	205	None	
+112	ANDREI ŠARŠOV	4	Rahva Ühtsuse Erakond	40	None	
+113	RAIVO ALGUR	4	Rahva Ühtsuse Erakond	25	None	
+115	SILJA TRISBERG	4	Rahva Ühtsuse Erakond	17	None	
+114	TAAVI KEEDUS	4	Rahva Ühtsuse Erakond	16	None	
+172	HENN PÕLLUAAS	4	Eesti Konservatiivne Rahvaerakond	4309	district	
+173	SIIM POHLAK	4	Eesti Konservatiivne Rahvaerakond	1128	None	
+174	MART JÄRVIK	4	Eesti Konservatiivne Rahvaerakond	323	None	
+187	MAIDO PAJO	4	Eesti Konservatiivne Rahvaerakond	298	None	
+177	RENE KOKK	4	Eesti Konservatiivne Rahvaerakond	180	None	
+178	KAI RIMMEL	4	Eesti Konservatiivne Rahvaerakond	175	None	
+180	LAURI LASIMER	4	Eesti Konservatiivne Rahvaerakond	122	None	
+175	PAUL PUUSTUSMAA	4	Eesti Konservatiivne Rahvaerakond	116	None	
+185	ANETT LEOSK	4	Eesti Konservatiivne Rahvaerakond	100	None	
+179	HEINO LÕIVEKE	4	Eesti Konservatiivne Rahvaerakond	97	None	
+181	VEIKO VÄRK	4	Eesti Konservatiivne Rahvaerakond	50	None	
+182	OLAVI TUTT	4	Eesti Konservatiivne Rahvaerakond	39	None	
+186	TAAVI TAPU	4	Eesti Konservatiivne Rahvaerakond	39	None	
+176	JÜRI DERKUN	4	Eesti Konservatiivne Rahvaerakond	31	None	
+183	OLAV KRUUS	4	Eesti Konservatiivne Rahvaerakond	25	None	
+184	TOIVO KIRTSI	4	Eesti Konservatiivne Rahvaerakond	18	None	
+297	TAAVI RÕIVAS	4	Eesti Reformierakond	15881	personal	
+300	YOKO ALENDER	4	Eesti Reformierakond	2715	district	
+309	MADIS MILLING	4	Eesti Reformierakond	2580	district	
+301	AIVAR SÕERD	4	Eesti Reformierakond	2047	district	
+299	KALLE PALLING	4	Eesti Reformierakond	1917	district	
+298	LAINE RANDJÄRV	4	Eesti Reformierakond	1698	compensation	
+304	ANDRE SEPP	4	Eesti Reformierakond	679	None	
+306	MART VÕRKLAEV	4	Eesti Reformierakond	615	None	
+305	ENNO FELS	4	Eesti Reformierakond	566	None	
+308	ANNELIIS KÕIV	4	Eesti Reformierakond	549	None	
+312	VLADAS RADVILAVIČIUS	4	Eesti Reformierakond	401	None	
+307	ANDRUS UMBOJA	4	Eesti Reformierakond	369	None	
+303	TÕNIS KÕIV	4	Eesti Reformierakond	355	None	
+310	AIN TÄPSI	4	Eesti Reformierakond	237	None	
+302	KALEV LILLO	4	Eesti Reformierakond	168	None	
+311	ENA SOODLA	4	Eesti Reformierakond	147	None	
+422	JUHAN PARTS	4	Erakond Isamaa ja Res Publica Liit	4208	district	
+423	MARKO MIHKELSON	4	Erakond Isamaa ja Res Publica Liit	2842	district	
+425	TIINA KANGRO	4	Erakond Isamaa ja Res Publica Liit	1669	None	
+426	AIVAR RIISALU	4	Erakond Isamaa ja Res Publica Liit	1536	None	
+424	ANDRUS SAARE	4	Erakond Isamaa ja Res Publica Liit	1054	None	
+428	MARI-ANN KELAM	4	Erakond Isamaa ja Res Publica Liit	581	None	
+429	KAUPO RÄTSEPP	4	Erakond Isamaa ja Res Publica Liit	475	None	
+437	TOOMAS TÕNISTE	4	Erakond Isamaa ja Res Publica Liit	462	None	
+427	LAURI VAHTRE	4	Erakond Isamaa ja Res Publica Liit	419	None	
+430	ANDRES LAISK	4	Erakond Isamaa ja Res Publica Liit	281	None	
+436	REET ROOS	4	Erakond Isamaa ja Res Publica Liit	254	None	
+435	ANDRES KAARMANN	4	Erakond Isamaa ja Res Publica Liit	192	None	
+432	TIIT LEIER	4	Erakond Isamaa ja Res Publica Liit	183	None	
+433	JAN TREI	4	Erakond Isamaa ja Res Publica Liit	135	None	
+434	PRIIT PÕLDMÄE	4	Erakond Isamaa ja Res Publica Liit	101	None	
+431	KADRI TILLEMANN	4	Erakond Isamaa ja Res Publica Liit	92	None	
+528	VALDUR LAHTVEE	4	Erakond Eestimaa Rohelised	427	None	
+531	JOONAS LAKS	4	Erakond Eestimaa Rohelised	155	None	
+530	IVAR SOONE	4	Erakond Eestimaa Rohelised	94	None	
+529	ANDRES MEESAK	4	Erakond Eestimaa Rohelised	63	None	
+533	KALJU VALDMANN	4	Erakond Eestimaa Rohelised	53	None	
+532	AIN KABAL	4	Erakond Eestimaa Rohelised	44	None	
+561	GEORGI BÕSTROV	4	Eestimaa Ühendatud Vasakpartei	233	None	
+562	JEVGENI GOLOVATŠ	4	Eestimaa Ühendatud Vasakpartei	85	None	
+563	HEINO RÜÜTEL	4	Eestimaa Ühendatud Vasakpartei	19	None	
+565	MADIS TÄNAVSUU	4	Eestimaa Ühendatud Vasakpartei	12	None	
+564	ALEKSANDR PAURI	4	Eestimaa Ühendatud Vasakpartei	2	None	
+612	ARTUR TALVIK	4	Eesti Vabaerakond	7308	personal	
+613	ALAR MUTLI	4	Eesti Vabaerakond	995	None	
+615	AIMAR ALTOSAAR	4	Eesti Vabaerakond	413	None	
+618	PRIIT KÄRSNA	4	Eesti Vabaerakond	296	None	
+614	TIIA VÄLK	4	Eesti Vabaerakond	255	None	
+620	VEIKO HERODES	4	Eesti Vabaerakond	135	None	
+624	URMAS KRISTAL	4	Eesti Vabaerakond	113	None	
+619	LIISA OJANGU	4	Eesti Vabaerakond	112	None	
+617	KATRIN MESILANE	4	Eesti Vabaerakond	110	None	
+616	AIVAR KOITLA	4	Eesti Vabaerakond	103	None	
+625	EGGE KULBOK-LATTIK	4	Eesti Vabaerakond	89	None	
+621	ÜLLE LENNUK	4	Eesti Vabaerakond	70	None	
+626	MATI SAREVET	4	Eesti Vabaerakond	60	None	
+622	MART MUTSO	4	Eesti Vabaerakond	57	None	
+627	VAHUR HERM	4	Eesti Vabaerakond	57	None	
+623	LOIT JÕEKALDA	4	Eesti Vabaerakond	37	None	
+737	JÜRI RATAS	4	Eesti Keskerakond	7932	personal	
+740	VLADIMIR VELMAN	4	Eesti Keskerakond	1294	district	
+743	VLADIMIR ARHIPOV	4	Eesti Keskerakond	838	None	
+746	NATALIA MALLEUS	4	Eesti Keskerakond	555	None	
+738	KERSTIN-OUDEKKI LOONE	4	Eesti Keskerakond	354	None	
+744	OLEG TŠUBAROV	4	Eesti Keskerakond	351	None	
+742	JÜRI VÕIGEMAST	4	Eesti Keskerakond	169	None	
+741	RENÉ TOOMSE	4	Eesti Keskerakond	167	None	
+739	VÄRNER LOOTSMANN	4	Eesti Keskerakond	136	None	
+745	AGO KOKSER	4	Eesti Keskerakond	116	None	
+752	VELLO JÕGISOO	4	Eesti Keskerakond	100	None	
+749	INDREK UUEMAA	4	Eesti Keskerakond	95	None	
+747	PEETER REBANE	4	Eesti Keskerakond	88	None	
+751	OLIVER LIIDEMANN	4	Eesti Keskerakond	81	None	
+748	MEELIS PAI	4	Eesti Keskerakond	67	None	
+750	VÄINO SASSI	4	Eesti Keskerakond	54	None	
+862	SVEN MIKSER	4	Sotsiaaldemokraatlik Erakond	4969	district	
+863	URVE PALO	4	Sotsiaaldemokraatlik Erakond	2028	compensation	
+877	HARDI VOLMER	4	Sotsiaaldemokraatlik Erakond	818	None	
+868	RAIVO UUKKIVI	4	Sotsiaaldemokraatlik Erakond	578	None	
+865	LIISA OVIIR	4	Sotsiaaldemokraatlik Erakond	493	None	
+864	KAREL RÜÜTLI	4	Sotsiaaldemokraatlik Erakond	293	None	
+866	TIIT TAMMSAAR	4	Sotsiaaldemokraatlik Erakond	290	None	
+870	ASTRID OJASOON	4	Sotsiaaldemokraatlik Erakond	287	None	
+871	TÕNIS BLANK	4	Sotsiaaldemokraatlik Erakond	268	None	
+876	EVELY PURRE	4	Sotsiaaldemokraatlik Erakond	160	None	
+873	MADIS ROODLA	4	Sotsiaaldemokraatlik Erakond	146	None	
+867	MAILIS ALT	4	Sotsiaaldemokraatlik Erakond	137	None	
+874	ANNE LEHT	4	Sotsiaaldemokraatlik Erakond	118	None	
+869	STANISLAV TŠEREPANOV	4	Sotsiaaldemokraatlik Erakond	111	None	
+872	EVE KISLOV	4	Sotsiaaldemokraatlik Erakond	108	None	
+875	MATI ÕUNLOO	4	Sotsiaaldemokraatlik Erakond	98	None	
+955	VELLO LEITO	4	Eesti Iseseisvuspartei	133	None	
+973	EGE HIRV	4	Üksikkandidaadid	110	None	
+965	JAAK VACKERMANN	4	Üksikkandidaadid	79	None	
+116	KAIE JAANISTE	5	Rahva Ühtsuse Erakond	50	None	
+117	ALEKS SAARNAK	5	Rahva Ühtsuse Erakond	25	None	
+188	HELLE-MOONIKA HELME	5	Eesti Konservatiivne Rahvaerakond	2399	None	
+190	URMAS SELIRAND	5	Eesti Konservatiivne Rahvaerakond	442	None	
+189	HARDI REHKALT	5	Eesti Konservatiivne Rahvaerakond	359	None	
+191	ELVO LEPPMAA	5	Eesti Konservatiivne Rahvaerakond	188	None	
+193	MEELIS MALK	5	Eesti Konservatiivne Rahvaerakond	144	None	
+192	REIN MERILA	5	Eesti Konservatiivne Rahvaerakond	87	None	
+195	PIRET KOLLO	5	Eesti Konservatiivne Rahvaerakond	80	None	
+194	AIVAR ROHILAID	5	Eesti Konservatiivne Rahvaerakond	71	None	
+313	URVE TIIDUS	5	Eesti Reformierakond	4117	district	
+314	KALLE LAANET	5	Eesti Reformierakond	2388	district	
+316	TARMO MÄND	5	Eesti Reformierakond	1233	None	
+315	LAURI LUIK	5	Eesti Reformierakond	855	compensation	
+318	URMAS SUKLES	5	Eesti Reformierakond	661	None	
+319	KOIT KELDER	5	Eesti Reformierakond	529	None	
+317	KAIRI UUSTULND	5	Eesti Reformierakond	497	None	
+320	INNAR MÄESALU	5	Eesti Reformierakond	209	None	
+438	RAIVO AEG	5	Erakond Isamaa ja Res Publica Liit	2001	district	
+439	TÕNIS PALTS	5	Erakond Isamaa ja Res Publica Liit	1033	None	
+441	KAIDO KAASIK	5	Erakond Isamaa ja Res Publica Liit	478	None	
+442	GEORG LINKOV	5	Erakond Isamaa ja Res Publica Liit	344	None	
+440	MERLE MÄESALU	5	Erakond Isamaa ja Res Publica Liit	289	None	
+444	ALAR SCHÖNBERG	5	Erakond Isamaa ja Res Publica Liit	277	None	
+443	RAIMOND LUNEV	5	Erakond Isamaa ja Res Publica Liit	269	None	
+445	TOOMAS TAKKIS	5	Erakond Isamaa ja Res Publica Liit	247	None	
+535	ALEKSEI LOTMAN	5	Erakond Eestimaa Rohelised	430	None	
+534	KRISTEN KANNIK	5	Erakond Eestimaa Rohelised	160	None	
+566	INNA KALD	5	Eestimaa Ühendatud Vasakpartei	15	None	
+628	ANDRES AMMAS	5	Eesti Vabaerakond	1859	district	
+629	ENN MERI	5	Eesti Vabaerakond	1619	None	
+631	JÜRI LEMBER	5	Eesti Vabaerakond	267	None	
+635	RINNO LIGE	5	Eesti Vabaerakond	202	None	
+630	MIKKO NÕUKAS	5	Eesti Vabaerakond	157	None	
+632	ARLES TAAL	5	Eesti Vabaerakond	72	None	
+634	JAAN LAATS	5	Eesti Vabaerakond	63	None	
+633	OLEV VAHER	5	Eesti Vabaerakond	58	None	
+753	ENN EESMAA	5	Eesti Keskerakond	2219	district	
+754	JAANUS KARILAID	5	Eesti Keskerakond	1056	None	
+758	MART MÄEKER	5	Eesti Keskerakond	321	None	
+755	JANNE NURMIK	5	Eesti Keskerakond	245	None	
+760	JÜRI KUUSKEMAA	5	Eesti Keskerakond	202	None	
+757	ANTS VAHTRAS	5	Eesti Keskerakond	192	None	
+759	HARALD TÕRU	5	Eesti Keskerakond	68	None	
+756	ANDRES KAMPMANN	5	Eesti Keskerakond	65	None	
+878	HANNES HANSO	5	Sotsiaaldemokraatlik Erakond	2038	district	
+879	NEEME SUUR	5	Sotsiaaldemokraatlik Erakond	1213	None	
+880	KALEV KOTKAS	5	Sotsiaaldemokraatlik Erakond	649	None	
+883	REILI RAND	5	Sotsiaaldemokraatlik Erakond	342	None	
+885	RAIMU AARDAM	5	Sotsiaaldemokraatlik Erakond	315	None	
+881	VEEVE KAASIK	5	Sotsiaaldemokraatlik Erakond	232	None	
+884	ARNO PEKSAR	5	Sotsiaaldemokraatlik Erakond	132	None	
+882	JAANUS SAHK	5	Sotsiaaldemokraatlik Erakond	97	None	
+956	OLEV AIT	5	Eesti Iseseisvuspartei	113	None	
+118	KRISTIINA OJULAND	6	Rahva Ühtsuse Erakond	273	None	
+120	ÕNNELA RAUDSEPP	6	Rahva Ühtsuse Erakond	39	None	
+119	ALLAN JAAKUS	6	Rahva Ühtsuse Erakond	12	None	
+196	ANTI POOLAMETS	6	Eesti Konservatiivne Rahvaerakond	2080	None	
+199	UNO TRUMM	6	Eesti Konservatiivne Rahvaerakond	102	None	
+202	KALMER KALAUS	6	Eesti Konservatiivne Rahvaerakond	96	None	
+198	AIGAR PÕDER	6	Eesti Konservatiivne Rahvaerakond	83	None	
+200	ARNO PIKHOF	6	Eesti Konservatiivne Rahvaerakond	63	None	
+197	ARE SAARNE	6	Eesti Konservatiivne Rahvaerakond	46	None	
+201	KRISTJAN SIIMSON	6	Eesti Konservatiivne Rahvaerakond	22	None	
+321	VALDO RANDPERE	6	Eesti Reformierakond	3170	district	
+323	MARKO TORM	6	Eesti Reformierakond	1165	None	
+322	SIGNE KIVI	6	Eesti Reformierakond	995	None	
+324	TOOMAS VAREK	6	Eesti Reformierakond	907	None	
+327	INDREK KESKÜLA	6	Eesti Reformierakond	532	None	
+325	LEO AADEL	6	Eesti Reformierakond	255	None	
+326	KAIDO VESKI	6	Eesti Reformierakond	223	None	
+446	MARKO POMERANTS	6	Erakond Isamaa ja Res Publica Liit	2681	district	
+447	EINAR VALLBAUM	6	Erakond Isamaa ja Res Publica Liit	1044	None	
+448	MIHKEL JUHKAMI	6	Erakond Isamaa ja Res Publica Liit	352	None	
+452	TAUNO TOOMPUU	6	Erakond Isamaa ja Res Publica Liit	310	None	
+450	AIN SUURKAEV	6	Erakond Isamaa ja Res Publica Liit	297	None	
+451	HANNES METS	6	Erakond Isamaa ja Res Publica Liit	228	None	
+449	HELLE NOORVÄLI	6	Erakond Isamaa ja Res Publica Liit	215	None	
+536	AGU KIVIMÄGI	6	Erakond Eestimaa Rohelised	124	None	
+537	REIGO LEHTLA	6	Erakond Eestimaa Rohelised	75	None	
+567	TÕNU VEEREMAA	6	Eestimaa Ühendatud Vasakpartei	17	None	
+636	EMIL RUTIKU	6	Eesti Vabaerakond	1243	None	
+637	ELMU KOPPELMANN	6	Eesti Vabaerakond	469	None	
+642	HEIKI HALLIK	6	Eesti Vabaerakond	241	None	
+639	MARIKA TALI	6	Eesti Vabaerakond	104	None	
+640	KRISTO KRUMM	6	Eesti Vabaerakond	95	None	
+638	REIN KOTŠIN	6	Eesti Vabaerakond	33	None	
+641	VEANA HEINMETS	6	Eesti Vabaerakond	19	None	
+761	SIRET KOTKA	6	Eesti Keskerakond	2558	district	
+762	TOOMAS VÄINASTE	6	Eesti Keskerakond	773	None	
+766	ANDRES SÕBER	6	Eesti Keskerakond	530	None	
+764	JELENA FJODOROVA	6	Eesti Keskerakond	455	None	
+767	URMAS TAMM	6	Eesti Keskerakond	365	None	
+763	ANDRES JAADLA	6	Eesti Keskerakond	298	None	
+765	JAANUS MUTLI	6	Eesti Keskerakond	262	None	
+886	RANNAR VASSILJEV	6	Sotsiaaldemokraatlik Erakond	2172	None	
+887	KAIRIT PIHLAK	6	Sotsiaaldemokraatlik Erakond	537	None	
+888	EERIK LUMISTE	6	Sotsiaaldemokraatlik Erakond	371	None	
+889	ENE AUGASMÄGI	6	Sotsiaaldemokraatlik Erakond	342	None	
+892	MAIMU BERG	6	Sotsiaaldemokraatlik Erakond	299	None	
+891	GARRI RAAGMAA	6	Sotsiaaldemokraatlik Erakond	214	None	
+890	PAUL LETTENS	6	Sotsiaaldemokraatlik Erakond	65	None	
+957	TOOMAS TAMM	6	Eesti Iseseisvuspartei	83	None	
+121	EVELYN DANILOV	7	Rahva Ühtsuse Erakond	97	None	
+122	ARNOLD PERSIDSKI	7	Rahva Ühtsuse Erakond	43	None	
+123	LJUBOV DOROŠENKO	7	Rahva Ühtsuse Erakond	34	None	
+203	ARNO KODU	7	Eesti Konservatiivne Rahvaerakond	693	None	
+204	MARI-LIIS LILLEMETS	7	Eesti Konservatiivne Rahvaerakond	141	None	
+207	MART KALAUS	7	Eesti Konservatiivne Rahvaerakond	95	None	
+205	KAI IRD	7	Eesti Konservatiivne Rahvaerakond	52	None	
+206	KSENIA VÕHMA	7	Eesti Konservatiivne Rahvaerakond	29	None	
+208	LAURI ÕUN	7	Eesti Konservatiivne Rahvaerakond	19	None	
+211	TANEL LIIVA	7	Eesti Konservatiivne Rahvaerakond	18	None	
+209	LAURI KARP	7	Eesti Konservatiivne Rahvaerakond	15	None	
+210	PIRET JANIS	7	Eesti Konservatiivne Rahvaerakond	6	None	
+328	DENISS BORODITŠ	7	Eesti Reformierakond	769	district	
+331	AIVAR SURVA	7	Eesti Reformierakond	754	None	
+330	REIN AIDMA	7	Eesti Reformierakond	655	None	
+332	AIVAR SAARELA	7	Eesti Reformierakond	535	None	
+334	TIIT KUUSMIK	7	Eesti Reformierakond	438	None	
+336	AIN SEPPIK	7	Eesti Reformierakond	326	None	
+329	TOIVO ASMER	7	Eesti Reformierakond	296	None	
+335	ENNO VINNI	7	Eesti Reformierakond	243	None	
+333	AIME KEIS	7	Eesti Reformierakond	98	None	
+453	ANVAR SAMOST	7	Erakond Isamaa ja Res Publica Liit	761	None	
+460	TAUNO VÕHMAR	7	Erakond Isamaa ja Res Publica Liit	716	None	
+454	KAJA KREISMAN	7	Erakond Isamaa ja Res Publica Liit	421	None	
+461	TUNNE-VÄLDO KELAM	7	Erakond Isamaa ja Res Publica Liit	260	None	
+456	JANEK RAIK	7	Erakond Isamaa ja Res Publica Liit	180	None	
+459	ARTUR PÕLD	7	Erakond Isamaa ja Res Publica Liit	147	None	
+457	RISTO LINDEBERG	7	Erakond Isamaa ja Res Publica Liit	119	None	
+455	ANTS PAULS	7	Erakond Isamaa ja Res Publica Liit	118	None	
+458	AIVO TAMM	7	Erakond Isamaa ja Res Publica Liit	104	None	
+538	ALEKSANDER POTOTSKI	7	Erakond Eestimaa Rohelised	57	None	
+539	ALLAN SELIN	7	Erakond Eestimaa Rohelised	43	None	
+568	VIKTOR MALÕGIN	7	Eestimaa Ühendatud Vasakpartei	58	None	
+643	PEETER KAPTEN	7	Eesti Vabaerakond	265	None	
+646	TAMARA LUIGAS	7	Eesti Vabaerakond	197	None	
+644	INNA ROSE	7	Eesti Vabaerakond	108	None	
+645	JÜRI SOONE	7	Eesti Vabaerakond	73	None	
+647	OLAV KIVIRAND	7	Eesti Vabaerakond	58	None	
+651	AVO BLANKIN	7	Eesti Vabaerakond	55	None	
+649	YURY GORDEEV	7	Eesti Vabaerakond	26	None	
+648	EVHEN TSYBULENKO	7	Eesti Vabaerakond	25	None	
+650	EINO MURUSTE	7	Eesti Vabaerakond	18	None	
+768	YANA TOOM	7	Eesti Keskerakond	11574	personal	
+769	MIHHAIL STALNUHHIN	7	Eesti Keskerakond	3648	district	
+776	MARTIN REPINSKI	7	Eesti Keskerakond	1556	district	
+770	VALERI KORB	7	Eesti Keskerakond	1046	district	
+774	DMITRI DMITRIJEV	7	Eesti Keskerakond	677	None	
+773	EEVI PAASMÄE	7	Eesti Keskerakond	639	None	
+771	ELDAR EFENDIJEV	7	Eesti Keskerakond	607	None	
+772	TARMO TAMMISTE	7	Eesti Keskerakond	429	None	
+775	RIHO KUTSAR	7	Eesti Keskerakond	152	None	
+893	JEVGENI OSSINOVSKI	7	Sotsiaaldemokraatlik Erakond	2784	district	
+894	ETTI KAGAROV	7	Sotsiaaldemokraatlik Erakond	569	None	
+895	JAAK ALLIK	7	Sotsiaaldemokraatlik Erakond	369	None	
+898	KRISTINA KALLAS	7	Sotsiaaldemokraatlik Erakond	291	None	
+900	ANTS KUTTI	7	Sotsiaaldemokraatlik Erakond	254	None	
+901	TOOMAS NÕMMISTE	7	Sotsiaaldemokraatlik Erakond	251	None	
+897	INNA NAZAROVA	7	Sotsiaaldemokraatlik Erakond	207	None	
+896	EDUARD ODINETS	7	Sotsiaaldemokraatlik Erakond	173	None	
+899	GENADI AFANASSJEV	7	Sotsiaaldemokraatlik Erakond	37	None	
+958	HELE KÄNGSEPP	7	Eesti Iseseisvuspartei	54	None	
+124	PAVO RAUDSEPP	8	Rahva Ühtsuse Erakond	109	None	
+126	OTT KUKK	8	Rahva Ühtsuse Erakond	80	None	
+125	RAMO PENER	8	Rahva Ühtsuse Erakond	16	None	
+212	JAAK MADISON	8	Eesti Konservatiivne Rahvaerakond	1883	compensation	
+215	ENN SARV	8	Eesti Konservatiivne Rahvaerakond	441	None	
+213	REIN SUURKASK	8	Eesti Konservatiivne Rahvaerakond	197	None	
+214	MARVE PIIP	8	Eesti Konservatiivne Rahvaerakond	124	None	
+220	HELGI LIIK	8	Eesti Konservatiivne Rahvaerakond	101	None	
+216	TARMO HINTS	8	Eesti Konservatiivne Rahvaerakond	99	None	
+217	RAIVO ASUKÜLA	8	Eesti Konservatiivne Rahvaerakond	94	None	
+219	GUSTAV SINIVÄLI	8	Eesti Konservatiivne Rahvaerakond	77	None	
+218	TIMO KALAUS	8	Eesti Konservatiivne Rahvaerakond	38	None	
+337	JÜRGEN LIGI	8	Eesti Reformierakond	6757	personal	
+339	JOHANNES KERT	8	Eesti Reformierakond	752	district	
+341	KRISTJAN KÕLJALG	8	Eesti Reformierakond	714	None	
+338	KALLE JENTS	8	Eesti Reformierakond	704	None	
+345	TÕNU JUUL	8	Eesti Reformierakond	521	None	
+342	MADIS TIMPSON	8	Eesti Reformierakond	430	None	
+340	PEEP ARU	8	Eesti Reformierakond	416	None	
+344	RAIT PIHELGAS	8	Eesti Reformierakond	409	None	
+462	HELIR-VALDOR SEEDER	8	Erakond Isamaa ja Res Publica Liit	2908	district	
+463	KAIA IVA	8	Erakond Isamaa ja Res Publica Liit	1684	None	
+467	ENE SAAR	8	Erakond Isamaa ja Res Publica Liit	463	None	
+464	TIINA ORASTE	8	Erakond Isamaa ja Res Publica Liit	391	None	
+465	ANDO KIVIBERG	8	Erakond Isamaa ja Res Publica Liit	378	None	
+468	LEMBIT KRUUSE	8	Erakond Isamaa ja Res Publica Liit	336	None	
+466	PRIIT VÄRK	8	Erakond Isamaa ja Res Publica Liit	313	None	
+470	KALJU KERTSMIK	8	Erakond Isamaa ja Res Publica Liit	269	None	
+469	MARKO TIITUS	8	Erakond Isamaa ja Res Publica Liit	82	None	
+540	ERNO ILSEN	8	Erakond Eestimaa Rohelised	103	None	
+541	AIN KUNINGAS	8	Erakond Eestimaa Rohelised	80	None	
+569	EDUARD TANVEL	8	Eestimaa Ühendatud Vasakpartei	17	None	
+652	MATI ILISSON	8	Eesti Vabaerakond	1075	None	
+653	ARLET PALMISTE	8	Eesti Vabaerakond	519	None	
+654	AIN OSTRA	8	Eesti Vabaerakond	170	None	
+655	ILME LAST	8	Eesti Vabaerakond	143	None	
+660	MATS ÕUN	8	Eesti Vabaerakond	128	None	
+656	VÄINO RAJANGU	8	Eesti Vabaerakond	127	None	
+658	OLEV RAHNU	8	Eesti Vabaerakond	104	None	
+657	MARGUS SARDIS	8	Eesti Vabaerakond	62	None	
+659	EVI KIRSCHFELDT	8	Eesti Vabaerakond	40	None	
+777	MAILIS REPS	8	Eesti Keskerakond	2981	district	
+779	KERSTI SARAPUU	8	Eesti Keskerakond	1164	compensation	
+778	PRIIT TOOBAL	8	Eesti Keskerakond	1045	compensation	
+780	HELMUT HALLEMAA	8	Eesti Keskerakond	435	None	
+781	RAIVO MATSINA	8	Eesti Keskerakond	140	None	
+785	MAIT MALTIS	8	Eesti Keskerakond	129	None	
+782	HANNES MÄNNIK	8	Eesti Keskerakond	105	None	
+784	ÜLLE LEESMAA	8	Eesti Keskerakond	79	None	
+783	ARE RIISTAN	8	Eesti Keskerakond	49	None	
+902	HELMEN KÜTT	8	Sotsiaaldemokraatlik Erakond	3817	district	
+903	JAANUS MARRANDI	8	Sotsiaaldemokraatlik Erakond	1050	compensation	
+905	ALO AASMA	8	Sotsiaaldemokraatlik Erakond	857	None	
+910	LIINA RAUD	8	Sotsiaaldemokraatlik Erakond	774	None	
+904	ÜLLE LUMI	8	Sotsiaaldemokraatlik Erakond	684	None	
+907	ARTO SAAR	8	Sotsiaaldemokraatlik Erakond	621	None	
+906	RANDEL LÄNTS	8	Sotsiaaldemokraatlik Erakond	584	None	
+908	ERICH PALM	8	Sotsiaaldemokraatlik Erakond	260	None	
+909	KAUPO KÄND	8	Sotsiaaldemokraatlik Erakond	251	None	
+959	JAANUS KRUUSMAA	8	Eesti Iseseisvuspartei	67	None	
+974	HELI KOIT	8	Üksikkandidaadid	176	None	
+127	TÕNU KALJA	9	Rahva Ühtsuse Erakond	151	None	
+221	MALLE PÄRN	9	Eesti Konservatiivne Rahvaerakond	1867	None	
+222	RAIVO PÕLDARU	9	Eesti Konservatiivne Rahvaerakond	919	compensation	
+224	TIIT ROSIN	9	Eesti Konservatiivne Rahvaerakond	352	None	
+226	OLEV TEDER	9	Eesti Konservatiivne Rahvaerakond	179	None	
+227	KAI TENNOSAAR	9	Eesti Konservatiivne Rahvaerakond	161	None	
+225	MATI KÖHLER	9	Eesti Konservatiivne Rahvaerakond	121	None	
+230	MARGIT AVI	9	Eesti Konservatiivne Rahvaerakond	68	None	
+223	KRISTIAN SUVE	9	Eesti Konservatiivne Rahvaerakond	67	None	
+228	TIMO AVI	9	Eesti Konservatiivne Rahvaerakond	46	None	
+229	MARET RÄTSEP	9	Eesti Konservatiivne Rahvaerakond	34	None	
+346	URMAS KRUUSE	9	Eesti Reformierakond	5960	personal	
+347	IGOR GRÄZIN	9	Eesti Reformierakond	1973	district	
+348	MATI RAIDMA	9	Eesti Reformierakond	959	None	
+352	TOOMAS JÄRVEOJA	9	Eesti Reformierakond	853	None	
+349	TERJE TREI	9	Eesti Reformierakond	557	compensation	
+350	RENO LAIDRE	9	Eesti Reformierakond	544	None	
+353	KALMER LAIN	9	Eesti Reformierakond	319	None	
+351	VIKTOR SVJATÕŠEV	9	Eesti Reformierakond	297	None	
+354	KAISA EDENBERG	9	Eesti Reformierakond	262	None	
+355	RAIVO VADI	9	Eesti Reformierakond	172	None	
+472	AIVAR KOKK	9	Erakond Isamaa ja Res Publica Liit	1725	district	
+471	JAAK AAVIKSOO	9	Erakond Isamaa ja Res Publica Liit	1405	compensation	
+474	ANDRES ARRAK	9	Erakond Isamaa ja Res Publica Liit	794	None	
+473	ELLE KULL	9	Erakond Isamaa ja Res Publica Liit	467	None	
+477	JOEL LUHAMETS	9	Erakond Isamaa ja Res Publica Liit	413	None	
+475	ANTI ORAV	9	Erakond Isamaa ja Res Publica Liit	365	None	
+480	MIHKEL KÜBAR	9	Erakond Isamaa ja Res Publica Liit	302	None	
+476	TOIVO PEETS	9	Erakond Isamaa ja Res Publica Liit	269	None	
+479	AARE ANDERSON	9	Erakond Isamaa ja Res Publica Liit	180	None	
+478	RAIN SANGERNEBO	9	Erakond Isamaa ja Res Publica Liit	179	None	
+542	RASMUS LAHTVEE	9	Erakond Eestimaa Rohelised	321	None	
+543	ARVO KUIV	9	Erakond Eestimaa Rohelised	48	None	
+572	ALEKSANDR ŠIROKOV	9	Eestimaa Ühendatud Vasakpartei	58	None	
+570	SERGEI SUMIN	9	Eestimaa Ühendatud Vasakpartei	21	None	
+571	MARIJAM RANNAK	9	Eestimaa Ühendatud Vasakpartei	8	None	
+661	MÄRT MEESAK	9	Eesti Vabaerakond	1094	None	
+662	ELO LUTSEPP	9	Eesti Vabaerakond	784	None	
+670	MÄRT LÄÄNEMETS	9	Eesti Vabaerakond	326	None	
+664	MADIS AVI	9	Eesti Vabaerakond	321	None	
+665	KATRIN HAUK	9	Eesti Vabaerakond	128	None	
+668	RAIK-HIIO MIKELSAAR	9	Eesti Vabaerakond	121	None	
+663	TAUNO KURE	9	Eesti Vabaerakond	119	None	
+669	AGU RILLO	9	Eesti Vabaerakond	80	None	
+667	HEINO KALJURAND	9	Eesti Vabaerakond	59	None	
+666	VALERIA KALJUORG	9	Eesti Vabaerakond	57	None	
+786	MARIKA TUUS-LAUL	9	Eesti Keskerakond	2904	district	
+789	PEETER VÕSA	9	Eesti Keskerakond	1235	None	
+795	ALEKSANDR ŠIROKOV	9	Eesti Keskerakond	1137	None	
+788	PEETER ERNITS	9	Eesti Keskerakond	824	None	
+787	URBO VAARMANN	9	Eesti Keskerakond	431	None	
+793	ANDRES RAID	9	Eesti Keskerakond	295	None	
+790	AARE OLGO	9	Eesti Keskerakond	270	None	
+791	MAX KAUR	9	Eesti Keskerakond	269	None	
+792	ANDRES VÄÄN	9	Eesti Keskerakond	162	None	
+794	KALLE MIHKELS	9	Eesti Keskerakond	117	None	
+912	TANEL TALVE	9	Sotsiaaldemokraatlik Erakond	2294	district	
+911	JAAN ÕUNAPUU	9	Sotsiaaldemokraatlik Erakond	1447	None	
+913	JÜRI MOROZOV	9	Sotsiaaldemokraatlik Erakond	870	None	
+917	JAAN AIAOTS	9	Sotsiaaldemokraatlik Erakond	654	None	
+920	JAAN SÕRRA	9	Sotsiaaldemokraatlik Erakond	546	None	
+914	PRIIT LOMP	9	Sotsiaaldemokraatlik Erakond	543	None	
+919	ASSO NETTAN	9	Sotsiaaldemokraatlik Erakond	500	None	
+915	TRIIN PÄRSIM	9	Sotsiaaldemokraatlik Erakond	311	None	
+918	MEELIS KARRO	9	Sotsiaaldemokraatlik Erakond	242	None	
+916	KAIRI KELL	9	Sotsiaaldemokraatlik Erakond	176	None	
+960	TOIVO ÕUNAPUU	9	Eesti Iseseisvuspartei	127	None	
+129	SILVER KUUSIK	10	Rahva Ühtsuse Erakond	72	None	
+131	AULIS FISCHER	10	Rahva Ühtsuse Erakond	23	None	
+130	MERLIN ABEDI	10	Rahva Ühtsuse Erakond	13	None	
+231	IMRE MÜRK	10	Eesti Konservatiivne Rahvaerakond	1577	None	
+235	INDREK KALDA	10	Eesti Konservatiivne Rahvaerakond	542	None	
+233	MERIKE LILLENBERG	10	Eesti Konservatiivne Rahvaerakond	229	None	
+232	KALEV ESSENSON	10	Eesti Konservatiivne Rahvaerakond	214	None	
+236	TOIVO SUUROJA	10	Eesti Konservatiivne Rahvaerakond	133	None	
+239	INDREK SÄRG	10	Eesti Konservatiivne Rahvaerakond	116	None	
+234	RUUBEN KAALEP	10	Eesti Konservatiivne Rahvaerakond	102	None	
+237	AILI TUHKANEN	10	Eesti Konservatiivne Rahvaerakond	91	None	
+238	TIINA PÄRNPUU	10	Eesti Konservatiivne Rahvaerakond	77	None	
+240	RANDON VÄRSI	10	Eesti Konservatiivne Rahvaerakond	28	None	
+356	ANTS LAANEOTS	10	Eesti Reformierakond	5920	personal	
+357	ANNE SULLING	10	Eesti Reformierakond	4197	district	
+358	URMAS KLAAS	10	Eesti Reformierakond	1501	compensation	
+359	RAIT MARUSTE	10	Eesti Reformierakond	808	None	
+360	MARGUS HANSON	10	Eesti Reformierakond	733	None	
+362	MARTIN PARMAS	10	Eesti Reformierakond	563	None	
+365	VALVO SEMILARSKI	10	Eesti Reformierakond	412	None	
+361	MIHKEL LEES	10	Eesti Reformierakond	354	None	
+363	TRIIN ANETTE KAASIK	10	Eesti Reformierakond	253	None	
+364	HELMER JÕGI	10	Eesti Reformierakond	243	None	
+481	MARGUS TSAHKNA	10	Erakond Isamaa ja Res Publica Liit	2267	district	
+483	KALLE MUULI	10	Erakond Isamaa ja Res Publica Liit	1196	None	
+490	ENE ERGMA	10	Erakond Isamaa ja Res Publica Liit	798	None	
+482	PEETER LAURSON	10	Erakond Isamaa ja Res Publica Liit	578	None	
+489	TÕNU LEHTSAAR	10	Erakond Isamaa ja Res Publica Liit	538	None	
+485	MIHHAIL LOTMAN	10	Erakond Isamaa ja Res Publica Liit	460	None	
+488	KARL KULL	10	Erakond Isamaa ja Res Publica Liit	270	None	
+484	ANNELI KANNUS	10	Erakond Isamaa ja Res Publica Liit	195	None	
+486	JÜRI KÕRE	10	Erakond Isamaa ja Res Publica Liit	113	None	
+487	PIRET ORAV	10	Erakond Isamaa ja Res Publica Liit	63	None	
+545	MART JÜSSI	10	Erakond Eestimaa Rohelised	376	None	
+544	MARKO KAASIK	10	Erakond Eestimaa Rohelised	283	None	
+546	PRIIT TRUUSALU	10	Erakond Eestimaa Rohelised	66	None	
+573	VIIVI-HELBE PELJUHHOVSKA	10	Eestimaa Ühendatud Vasakpartei	16	None	
+574	ANDRES LAIDVEE	10	Eestimaa Ühendatud Vasakpartei	6	None	
+671	KRISTA ARU	10	Eesti Vabaerakond	2529	district	
+673	PEETER VOLKONSKI	10	Eesti Vabaerakond	916	None	
+672	JÜRI ADAMS	10	Eesti Vabaerakond	720	compensation	
+674	PIRET TARTO	10	Eesti Vabaerakond	161	None	
+680	KALLE PILT	10	Eesti Vabaerakond	157	None	
+675	HANNES KLAAS	10	Eesti Vabaerakond	148	None	
+676	HEIKI KRIPS	10	Eesti Vabaerakond	124	None	
+677	URMET KÜLAOTS	10	Eesti Vabaerakond	107	None	
+679	LAILI JÕGIAAS	10	Eesti Vabaerakond	75	None	
+678	ARVO PÄIKE	10	Eesti Vabaerakond	66	None	
+796	AADU MUST	10	Eesti Keskerakond	2139	district	
+797	MARINA RIISALU	10	Eesti Keskerakond	1284	None	
+798	NIKOLAI PÕDRAMÄGI	10	Eesti Keskerakond	1105	None	
+799	ARTJOM SUVOROV	10	Eesti Keskerakond	699	None	
+801	IGOR ABARENKOV	10	Eesti Keskerakond	507	None	
+805	VLADIMIR ŠOKMAN	10	Eesti Keskerakond	390	None	
+800	NATALJA TROŠINA	10	Eesti Keskerakond	354	None	
+802	DIANA KLAS	10	Eesti Keskerakond	163	None	
+804	KÄTLIN TAKIS	10	Eesti Keskerakond	81	None	
+803	RAIN SUURSAAR	10	Eesti Keskerakond	65	None	
+921	MIHKEL RAUD	10	Sotsiaaldemokraatlik Erakond	3229	district	
+922	HELJO PIKHOF	10	Sotsiaaldemokraatlik Erakond	2042	compensation	
+923	TOOMAS JÜRGENSTEIN	10	Sotsiaaldemokraatlik Erakond	817	None	
+925	GEA KANGILASKI	10	Sotsiaaldemokraatlik Erakond	595	None	
+924	KADRI LEETMAA	10	Sotsiaaldemokraatlik Erakond	281	None	
+930	KAJAR LEMBER	10	Sotsiaaldemokraatlik Erakond	191	None	
+927	HENRI KASELO	10	Sotsiaaldemokraatlik Erakond	149	None	
+929	JARNO LAUR	10	Sotsiaaldemokraatlik Erakond	96	None	
+926	TÕNU INTS	10	Sotsiaaldemokraatlik Erakond	80	None	
+928	TIINA MERKULJEVA	10	Sotsiaaldemokraatlik Erakond	61	None	
+961	VEIKO RÄMMEL	10	Eesti Iseseisvuspartei	39	None	
+969	URMO KARUSOO	10	Üksikkandidaadid	111	None	
+132	PIRET HALJEND	11	Rahva Ühtsuse Erakond	169	None	
+134	JUHAN LIIV	11	Rahva Ühtsuse Erakond	73	None	
+133	JAAK METSALU	11	Rahva Ühtsuse Erakond	38	None	
+241	UNO KASKPEIT	11	Eesti Konservatiivne Rahvaerakond	1807	district	
+244	ANTS TAUL	11	Eesti Konservatiivne Rahvaerakond	619	None	
+243	ARNO SILD	11	Eesti Konservatiivne Rahvaerakond	523	compensation	
+250	AIVAR MESIKÄPP	11	Eesti Konservatiivne Rahvaerakond	281	None	
+242	MERRY AART	11	Eesti Konservatiivne Rahvaerakond	279	None	
+248	RIINA SABALISK	11	Eesti Konservatiivne Rahvaerakond	229	None	
+247	MARTTI KIROTAJA	11	Eesti Konservatiivne Rahvaerakond	171	None	
+249	VEEVI HÕRAK	11	Eesti Konservatiivne Rahvaerakond	115	None	
+251	VAINO RAUBA	11	Eesti Konservatiivne Rahvaerakond	107	None	
+245	ARTUR KARASK	11	Eesti Konservatiivne Rahvaerakond	88	None	
+246	ENDEL-HALJAND SUSI	11	Eesti Konservatiivne Rahvaerakond	56	None	
+366	HANNO PEVKUR	11	Eesti Reformierakond	3816	district	
+367	LIINA KERSNA	11	Eesti Reformierakond	2387	district	
+368	MEELIS MÄLBERG	11	Eesti Reformierakond	1040	None	
+369	MARGUS LEPIK	11	Eesti Reformierakond	782	None	
+370	AIVAR ROSENBERG	11	Eesti Reformierakond	645	None	
+372	AGU KABRITS	11	Eesti Reformierakond	519	None	
+371	ANDRUS SEEME	11	Eesti Reformierakond	472	None	
+373	PEETER SIBUL	11	Eesti Reformierakond	408	None	
+374	JÜRI KAVER	11	Eesti Reformierakond	395	None	
+376	LIIVI MARAN	11	Eesti Reformierakond	384	None	
+375	ANTI HAUGAS	11	Eesti Reformierakond	186	None	
+492	PRIIT SIBUL	11	Erakond Isamaa ja Res Publica Liit	1491	district	
+501	IGOR TARO	11	Erakond Isamaa ja Res Publica Liit	1202	None	
+491	MAIRE AUNASTE	11	Erakond Isamaa ja Res Publica Liit	679	compensation	
+494	ULLA PREEDEN	11	Erakond Isamaa ja Res Publica Liit	539	None	
+493	ÜLO TULIK	11	Erakond Isamaa ja Res Publica Liit	490	None	
+496	KURMET MÜÜRSEPP	11	Erakond Isamaa ja Res Publica Liit	330	None	
+495	ARNE TILK	11	Erakond Isamaa ja Res Publica Liit	292	None	
+497	MAREK MEKK	11	Erakond Isamaa ja Res Publica Liit	208	None	
+498	KALLE VISTER	11	Erakond Isamaa ja Res Publica Liit	205	None	
+499	JAAK PÄCHTER	11	Erakond Isamaa ja Res Publica Liit	127	None	
+500	SIRLE ROSENFELDT	11	Erakond Isamaa ja Res Publica Liit	74	None	
+547	AGO SAMOSON	11	Erakond Eestimaa Rohelised	196	None	
+548	ZOJA MELLOV	11	Erakond Eestimaa Rohelised	52	None	
+549	ARVI MATVEI	11	Erakond Eestimaa Rohelised	43	None	
+575	NIINA NETŠAJEVA	11	Eestimaa Ühendatud Vasakpartei	40	None	
+681	KAUL NURM	11	Eesti Vabaerakond	1315	None	
+682	MERLE JÄÄGER	11	Eesti Vabaerakond	986	None	
+685	KAIE HERKEL	11	Eesti Vabaerakond	185	None	
+688	TANEL VALK	11	Eesti Vabaerakond	161	None	
+691	URMAS OTT	11	Eesti Vabaerakond	129	None	
+684	IVO PILL	11	Eesti Vabaerakond	123	None	
+683	KALLE KALJUSTE	11	Eesti Vabaerakond	96	None	
+686	URMAS HEINASTE	11	Eesti Vabaerakond	93	None	
+690	VALEV ELERAND	11	Eesti Vabaerakond	72	None	
+689	SILVER SAARVA	11	Eesti Vabaerakond	59	None	
+687	EDUARD KASSIN	11	Eesti Vabaerakond	15	None	
+806	HEIMAR LENK	11	Eesti Keskerakond	3398	district	
+808	TARMO TAMM	11	Eesti Keskerakond	1721	district	
+807	ANNELI OTT	11	Eesti Keskerakond	1119	None	
+810	ALAR NÄÄME	11	Eesti Keskerakond	798	None	
+816	TOOMAS PAUR	11	Eesti Keskerakond	511	None	
+814	TOIVO TOOTSEN	11	Eesti Keskerakond	232	None	
+811	EVE SALUNDI	11	Eesti Keskerakond	224	None	
+809	JANIKA USIN	11	Eesti Keskerakond	200	None	
+812	ANDRE LAINE	11	Eesti Keskerakond	197	None	
+813	LIIS TAPPO-TREIAL	11	Eesti Keskerakond	155	None	
+815	HEIDY TAMME	11	Eesti Keskerakond	115	None	
+931	IVARI PADAR	11	Sotsiaaldemokraatlik Erakond	3992	district	
+934	KALVI KÕVA	11	Sotsiaaldemokraatlik Erakond	2081	district	
+941	INARA LUIGAS	11	Sotsiaaldemokraatlik Erakond	1192	None	
+933	REIN RANDVER	11	Sotsiaaldemokraatlik Erakond	1003	None	
+932	SIRJE TOBRELUTS	11	Sotsiaaldemokraatlik Erakond	849	None	
+936	TARMO TAMM	11	Sotsiaaldemokraatlik Erakond	452	district	
+937	SILJA SUIJA	11	Sotsiaaldemokraatlik Erakond	390	None	
+935	RAUL KUDRE	11	Sotsiaaldemokraatlik Erakond	245	None	
+938	REIN JÄRVELILL	11	Sotsiaaldemokraatlik Erakond	218	None	
+940	SIXTEN SILD	11	Sotsiaaldemokraatlik Erakond	203	None	
+939	KALEV HÄRK	11	Sotsiaaldemokraatlik Erakond	191	None	
+962	ARGO MÕTTUS	11	Eesti Iseseisvuspartei	111	None	
+967	MAREK RANNE	11	Üksikkandidaadid	114	None	
+972	TARMO PORROSON	11	Üksikkandidaadid	59	None	
+135	ANDRUS SOOPALU	12	Rahva Ühtsuse Erakond	349	None	
+136	ANDRES LAINELA	12	Rahva Ühtsuse Erakond	32	None	
+252	MART HELME	12	Eesti Konservatiivne Rahvaerakond	6714	personal	
+253	HELDUR PAULSON	12	Eesti Konservatiivne Rahvaerakond	132	None	
+255	KÄDE KALAMEES	12	Eesti Konservatiivne Rahvaerakond	84	None	
+254	HELLE KULLERKUPP	12	Eesti Konservatiivne Rahvaerakond	70	None	
+259	IIVI KALLASTE	12	Eesti Konservatiivne Rahvaerakond	58	None	
+260	TIINA TOOMJÕE	12	Eesti Konservatiivne Rahvaerakond	41	None	
+257	MATI LEHOLA	12	Eesti Konservatiivne Rahvaerakond	28	None	
+258	HEIKI MERIRAND	12	Eesti Konservatiivne Rahvaerakond	28	None	
+256	ANDRUS LELOV	12	Eesti Konservatiivne Rahvaerakond	24	None	
+261	TIINA ESPENBERG	12	Eesti Konservatiivne Rahvaerakond	9	None	
+377	TOOMAS KIVIMÄGI	12	Eesti Reformierakond	7603	personal	
+378	JÜRI JAANSON	12	Eesti Reformierakond	1328	district	
+379	VÄINO LINDE	12	Eesti Reformierakond	1206	None	
+380	VÄINO HALLIKMÄGI	12	Eesti Reformierakond	293	None	
+381	MEELI PÄRNA	12	Eesti Reformierakond	263	None	
+382	RIIDO VILLUP	12	Eesti Reformierakond	202	None	
+386	KRISTJAN HEAMÄE	12	Eesti Reformierakond	167	None	
+383	MAARJA KÕRV	12	Eesti Reformierakond	162	None	
+384	KALEV PÄIT	12	Eesti Reformierakond	96	None	
+385	CARMEN ILLAK	12	Eesti Reformierakond	92	None	
+503	ANDRES METSOJA	12	Erakond Isamaa ja Res Publica Liit	2207	district	
+502	ANNELY AKKERMANN	12	Erakond Isamaa ja Res Publica Liit	1571	None	
+511	TRIVIMI VELLISTE	12	Erakond Isamaa ja Res Publica Liit	451	None	
+504	REIN KILK	12	Erakond Isamaa ja Res Publica Liit	260	None	
+508	LAURI LUUR	12	Erakond Isamaa ja Res Publica Liit	251	None	
+506	MEELIS KUKK	12	Erakond Isamaa ja Res Publica Liit	236	None	
+507	KRISTA NÕMM	12	Erakond Isamaa ja Res Publica Liit	221	None	
+510	MARI SUURVÄLI	12	Erakond Isamaa ja Res Publica Liit	71	None	
+505	TIIT MATSULEVITŠ	12	Erakond Isamaa ja Res Publica Liit	39	None	
+509	GEORG MÄNNIK	12	Erakond Isamaa ja Res Publica Liit	30	None	
+550	MART SAARSO	12	Erakond Eestimaa Rohelised	202	None	
+551	OVE VARIK	12	Erakond Eestimaa Rohelised	49	None	
+576	GENNADI VEREŠTŠAGIN	12	Eestimaa Ühendatud Vasakpartei	21	None	
+692	JÜRI SAAR	12	Eesti Vabaerakond	1161	None	
+693	KADRI JÄÄTMA	12	Eesti Vabaerakond	407	None	
+694	ELMO JOA	12	Eesti Vabaerakond	289	None	
+696	HELI KÜNNAPAS	12	Eesti Vabaerakond	277	None	
+697	JOHANNES KASS	12	Eesti Vabaerakond	122	None	
+695	ANTS ERM	12	Eesti Vabaerakond	111	None	
+701	JAANUS OJANGU	12	Eesti Vabaerakond	77	None	
+700	REIN PRINS	12	Eesti Vabaerakond	59	None	
+698	ENN RÄHN	12	Eesti Vabaerakond	47	None	
+699	HILLAR VAIK	12	Eesti Vabaerakond	46	None	
+817	KADRI SIMSON	12	Eesti Keskerakond	5726	personal	
+818	MARKO ŠORIN	12	Eesti Keskerakond	464	None	
+819	HILLAR TALVIK	12	Eesti Keskerakond	265	None	
+820	RIHO ALLIKSOO	12	Eesti Keskerakond	264	None	
+822	SVETLANA TŠIPURINA	12	Eesti Keskerakond	248	None	
+821	KALLE SONG	12	Eesti Keskerakond	184	None	
+825	ANNE BETKER	12	Eesti Keskerakond	115	None	
+823	AVO KEEL	12	Eesti Keskerakond	102	None	
+824	ANTS LOPSIK	12	Eesti Keskerakond	100	None	
+826	ARGO MENGEL	12	Eesti Keskerakond	76	None	
+942	INDREK SAAR	12	Sotsiaaldemokraatlik Erakond	1944	district	
+945	MARK SOOSAAR	12	Sotsiaaldemokraatlik Erakond	613	None	
+944	AET MAATEE	12	Sotsiaaldemokraatlik Erakond	504	None	
+947	VALTER PARVE	12	Sotsiaaldemokraatlik Erakond	363	None	
+946	MERCEDES MERIMAA	12	Sotsiaaldemokraatlik Erakond	249	None	
+943	TATJANA JAANSON	12	Sotsiaaldemokraatlik Erakond	230	None	
+951	KADRI-AIJA VIIK	12	Sotsiaaldemokraatlik Erakond	221	None	
+948	PRIIT RUUT	12	Sotsiaaldemokraatlik Erakond	191	None	
+949	KALEV KALJUSTE	12	Sotsiaaldemokraatlik Erakond	182	None	
+950	ANDRES HIRVELA	12	Sotsiaaldemokraatlik Erakond	144	None	
+963	PEETER PAEMURRU	12	Eesti Iseseisvuspartei	88	None	
