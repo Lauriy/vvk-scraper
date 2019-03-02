@@ -79,6 +79,7 @@ number	name	district	party	votes	got_mandate
 834	RAIKO PUUSTUSMAA	1	Sotsiaaldemokraatlik Erakond	56	False	
 836	HEINART PUHKIM	1	Sotsiaaldemokraatlik Erakond	48	False	
 952	RAIVO ORGUSAAR	1	Eesti Iseseisvuspartei	107	False	
+970	SVETLANA IVNITSKAJA	1	Üksikkandidaadid	46	False	
 107	KERLI GREEN	2	Rahva Ühtsuse Erakond	43	False	
 104	ALEKSANDR APOLINSKY	2	Rahva Ühtsuse Erakond	38	False	
 105	BEATRICE FENICE	2	Rahva Ühtsuse Erakond	25	False	
@@ -179,6 +180,7 @@ number	name	district	party	votes	got_mandate
 971	MAARIKA PÄHKLEMÄE	2	Üksikkandidaadid	82	False	
 966	GREETE REINSON	2	Üksikkandidaadid	42	False	
 968	HENN LEETNA	2	Üksikkandidaadid	42	False	
+964	ILMAR IBRAGIMOV	2	Üksikkandidaadid	26	False	
 108	JANE SNAITH	3	Rahva Ühtsuse Erakond	41	False	
 110	MARIO MÄRTSON	3	Rahva Ühtsuse Erakond	19	False	
 109	ANDREA GREEN	3	Rahva Ühtsuse Erakond	18	False	
@@ -364,6 +366,7 @@ number	name	district	party	votes	got_mandate
 875	MATI ÕUNLOO	4	Sotsiaaldemokraatlik Erakond	98	False	
 955	VELLO LEITO	4	Eesti Iseseisvuspartei	133	False	
 973	EGE HIRV	4	Üksikkandidaadid	110	False	
+965	JAAK VACKERMANN	4	Üksikkandidaadid	79	False	
 116	KAIE JAANISTE	5	Rahva Ühtsuse Erakond	50	False	
 117	ALEKS SAARNAK	5	Rahva Ühtsuse Erakond	25	False	
 188	HELLE-MOONIKA HELME	5	Eesti Konservatiivne Rahvaerakond	2399	False	
@@ -588,6 +591,7 @@ number	name	district	party	votes	got_mandate
 908	ERICH PALM	8	Sotsiaaldemokraatlik Erakond	260	False	
 909	KAUPO KÄND	8	Sotsiaaldemokraatlik Erakond	251	False	
 959	JAANUS KRUUSMAA	8	Eesti Iseseisvuspartei	67	False	
+974	HELI KOIT	8	Üksikkandidaadid	176	False	
 127	TÕNU KALJA	9	Rahva Ühtsuse Erakond	151	False	
 221	MALLE PÄRN	9	Eesti Konservatiivne Rahvaerakond	1867	False	
 222	RAIVO PÕLDARU	9	Eesti Konservatiivne Rahvaerakond	919	True	
@@ -724,6 +728,7 @@ number	name	district	party	votes	got_mandate
 926	TÕNU INTS	10	Sotsiaaldemokraatlik Erakond	80	False	
 928	TIINA MERKULJEVA	10	Sotsiaaldemokraatlik Erakond	61	False	
 961	VEIKO RÄMMEL	10	Eesti Iseseisvuspartei	39	False	
+969	URMO KARUSOO	10	Üksikkandidaadid	111	False	
 132	PIRET HALJEND	11	Rahva Ühtsuse Erakond	169	False	
 134	JUHAN LIIV	11	Rahva Ühtsuse Erakond	73	False	
 133	JAAK METSALU	11	Rahva Ühtsuse Erakond	38	False	
@@ -799,6 +804,7 @@ number	name	district	party	votes	got_mandate
 939	KALEV HÄRK	11	Sotsiaaldemokraatlik Erakond	191	False	
 962	ARGO MÕTTUS	11	Eesti Iseseisvuspartei	111	False	
 967	MAREK RANNE	11	Üksikkandidaadid	114	False	
+972	TARMO PORROSON	11	Üksikkandidaadid	59	False	
 135	ANDRUS SOOPALU	12	Rahva Ühtsuse Erakond	349	False	
 136	ANDRES LAINELA	12	Rahva Ühtsuse Erakond	32	False	
 252	MART HELME	12	Eesti Konservatiivne Rahvaerakond	6714	True	

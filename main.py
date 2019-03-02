@@ -24,7 +24,10 @@ for i in range(1, 13):
     area_parties_results = soup.select('.detailed-party')
     for area_party_results in area_parties_results:
         current_party = area_party_results.select('.party-name')[0].contents[0]
-        for candidate_data in area_party_results.select('tbody tr')[:-1]:
+        party_row_data = area_party_results.select('tbody tr')
+        for candidate_index, candidate_data in enumerate(party_row_data):
+            if current_party != 'Üksikkandidaadid' and candidate_index == len(party_row_data) - 1:
+                continue
             candidate_registration_number = candidate_data.select('td')[1].contents[0]
             candidate_name = candidate_data.select('td')[2].contents[0]
             candidate_total_votes = candidate_data.select('td > strong')[0].contents[0]
